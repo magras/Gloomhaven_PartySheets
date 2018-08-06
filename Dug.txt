@@ -1,0 +1,22 @@
+Inox Brute
+Name: Dug
+Level: 1
+XP: 13
+Gold: 6
+Checkmarks: v-- --- ---  --- --- ---
+Cards:
+Items:
+  Poison Dagger
+  Minor Stamina Potion
+Perks:
+[ ] Remove two (-1) cards
+[ ] Replace one (-1) card with one (+1) card
+[ ][ ] Add two (+1) cards
+[ ] Add one (+3) card
+[ ][ ] Add three (rolling PUSH 1) cards
+[ ] Add two (rolling PIERCE 3) cards
+[ ][ ] Add one (rolling STUN) card
+[ ] Add one (rolling DISARM) card and one (rolling MUDDLE) card
+[ ][ ] Add one (rolling ADD TARGET) card
+[ ] Add one (+1, SHIELD 1 self) card
+[ ] Ignore negative item effects and add one (+1) card
