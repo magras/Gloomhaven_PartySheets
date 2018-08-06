@@ -1,0 +1,21 @@
+Valrath Sunkeeper
+Name: Солнышко
+Level: 1
+XP: 6
+Gold: 18
+Checkmarks: --- --- ---  --- --- ---
+Cards:
+Items:
+  Winged Shoes
+Perks:
+[ ][ ] Remove two (-1) cards
+[ ] Remove four (+0) cards
+[ ] Replace one (-2) card with one (+0) card
+[ ] Replace one (+0) card with one (+2) card
+[ ][ ] Add two (rolling +1) cards
+[ ][ ] Add two (rolling HEAL 1) cards
+[ ] Add one (rolling STUN) card
+[ ][ ] Add two (rolling LIGHT) cards
+[ ] Add two (rolling SHIELD 1 self) cards
+[ ] Ignore negative item effects and add two (+1) cards
+[ ] Ignore negative scenario effects
