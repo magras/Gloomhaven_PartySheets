@@ -1,0 +1,116 @@
+﻿Name:
+Location: Gloomhaven
+Achievements:
+  City Rule: Militaristic
+Reputation:
+  +20
+  +19 -5
+  +18
+  +17
+  +16
+  +15 -4
+  +14
+  +13
+  +12
+  +11 -3
+  +10
+   +9
+   +8
+   +7 -2
+   +6
+   +5
+   +4
+   +3 -1
+   +2
+   +1
+>   0 none
+   -1
+   -2
+   -3 +1
+   -4
+   -5
+   -6
+   -7 +2
+   -8
+   -9
+  -10
+  -11 +3
+  -12
+  -13
+  -14
+  -15 +4
+  -16
+  -17
+  -18
+  -19 +5
+  -20
+
+
+Inox Brute
+Name:
+Level: 1
+XP: 13
+Gold: 6
+Checkmarks: v-- --- ---  --- --- ---
+Cards:
+Items:
+  Poison Dagger
+  Minor Stamina Potion
+Perks:
+[ ] Remove two (-1) cards
+[ ] Replace one (-1) card with one (+1) card
+[ ][ ] Add two (+1) cards
+[ ] Add one (+3) card
+[ ][ ] Add three (rolling PUSH 1) cards
+[ ] Add two (rolling PIERCE 3) cards
+[ ][ ] Add one (rolling STUN) card
+[ ] Add one (rolling DISARM) card and one (rolling MUDDLE) card
+[ ][ ] Add one (rolling ADD TARGET) card
+[ ] Add one (+1, SHIELD 1 self) card
+[ ] Ignore negative item effects and add one (+1) card
+
+
+Quatryl Tinkerer
+Name:
+Level: 1
+XP: 8
+Gold: 6
+Checkmarks: v-- --- ---  --- --- ---
+Cards:
+Items:
+  Eagle-Eye Googles
+Perks:
+[ ][ ] Remove two (-1) cards
+[ ] Replace one (-2) card with one (+0) card
+[ ] Add two (+1) cards
+[ ] Add one (+3) card
+[ ] Add tow (rolling FIRE) cards
+[ ] Add three (rolling MUDDLE) cards
+[ ][ ] Add one (+1 WOUND) card
+[ ][ ] Add one (+1 IMMOBILIZE) card
+[ ][ ] Add one (+1 HEAL 2) card
+[ ] Add one (+0 ADD TARGET) card
+[ ] Ignore negative scenario effects
+
+
+Valrath Sunkeeper
+Name:
+Level: 1
+XP: 6
+Gold: 18
+Checkmarks: --- --- ---  --- --- ---
+Cards:
+Items:
+  Winged Shoes
+Perks:
+[ ][ ] Remove two (-1) cards
+[ ] Remove four (+0) cards
+[ ] Replace one (-2) card with one (+0) card
+[ ] Replace one (+0) card with one (+2) card
+[ ][ ] Add two (rolling +1) cards
+[ ][ ] Add two (rolling HEAL 1) cards
+[ ] Add one (rolling STUN) card
+[ ][ ] Add two (rolling LIGHT) cards
+[ ] Add two (rolling SHIELD 1 self) cards
+[ ] Ignore negative item effects and add two (+1) cards
+[ ] Ignore negative scenario effects

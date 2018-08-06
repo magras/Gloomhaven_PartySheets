@@ -1,0 +1,21 @@
+Savvas Cragheart
+Name: Ragerock
+Level: 1
+XP: 9
+Gold: 8
+Checkmarks: --- --- ---  --- --- ---
+Cards:
+Items:
+  Boots of Striding
+  Minor Power Potion
+Perks:
+[ ] Remove four (+0) cards
+[ ][ ][ ] Replace one (-1) card with one (+1) card
+[ ] Add one (-2) card and two (+2) cards
+[ ][ ] Add one (+1 IMMOBILIZE) card
+[ ][ ] Add one (+2 MUDDLE) card
+[ ] Add two (rolling PUSH 2) cards
+[ ][ ] Add two (rolling EARTH) cards
+[ ] Add two (rolling AIR) cards
+[ ] Ignore negative item effects
+[ ] Ignore negative scenario effects
