@@ -1,0 +1,6 @@
+Achievments:
+  City Rule: Militaristic
+Scenarios:
+[x] #1 G-10 Black Barrow
+[ ] #2 G-11 Barrow Lair
+[ ] #68 M-8 Toxic Moor
