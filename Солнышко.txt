@@ -1,9 +1,9 @@
 Valrath Sunkeeper
 Name: Солнышко
 Level: 1
-XP: 21
-Gold: 28
-Checkmarks: v-- --- ---  --- --- ---
+XP: 41
+Gold: 38
+Checkmarks: vv- --- ---  --- --- ---
 Cards:
 Items:
   Winged Shoes

@@ -1,5 +1,5 @@
 Name: Love hurts (like a brick)
-Location: Black Barrow
+Location: Black Lair
 Achievements:
   First Steps
 Reputation:

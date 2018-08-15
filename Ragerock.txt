@@ -1,8 +1,8 @@
 Savvas Cragheart
 Name: Ragerock
 Level: 1
-XP: 24
-Gold: 12
+XP: 37
+Gold: 30
 Checkmarks: v-- --- ---  --- --- ---
 Cards:
 Items:

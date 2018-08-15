@@ -2,11 +2,13 @@ Achievments:
   City Rule: Militaristic
 Scenarios:
   [x] #1 G-10 Black Barrow
-  [ ] #2 G-11 Barrow Lair
+  [x] #2 G-11 Barrow Lair
+  [ ] #3 G-3 Inox Encampment
+  [ ] #4 E-11 Crypt of the Damned
   [ ] #68 M-8 Toxic Moor
 Prosperity:
--> 0 1
-   1
+   0 1
+-> 1
    2
    3
    4
