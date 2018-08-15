@@ -1,5 +1,5 @@
 Name: Love hurts (like a brick)
-Location: Black Lair
+Location: Gloomhaven
 Achievements:
   First Steps
 Reputation:
@@ -21,8 +21,8 @@ Reputation:
    +5
    +4
    +3 -1
-   +2
->  +1
+-> +2
+   +1
     0 none
    -1
    -2

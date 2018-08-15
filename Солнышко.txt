@@ -2,11 +2,13 @@ Valrath Sunkeeper
 Name: Солнышко
 Level: 1
 XP: 41
-Gold: 38
+Gold: 8
 Checkmarks: vv- --- ---  --- --- ---
 Cards:
 Items:
   Winged Shoes
+  Minor Stamina Potion
+  Poison Dagger
 Perks:
 [ ][ ] Remove two (-1) cards
 [ ] Remove four (+0) cards

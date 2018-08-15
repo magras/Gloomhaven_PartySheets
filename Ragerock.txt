@@ -2,12 +2,13 @@ Savvas Cragheart
 Name: Ragerock
 Level: 1
 XP: 37
-Gold: 30
-Checkmarks: v-- --- ---  --- --- ---
+Gold: 10
+Checkmarks: --- --- ---  --- --- ---
 Cards:
 Items:
   Boots of Striding
   Minor Power Potion
+  Eagle-Eye Googles
 Perks:
 [ ] Remove four (+0) cards
 [ ][ ][ ] Replace one (-1) card with one (+1) card

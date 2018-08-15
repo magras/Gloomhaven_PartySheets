@@ -2,12 +2,14 @@ Inox Brute
 Name: Dug
 Level: 1
 XP: 40
-Gold: 36
+Gold: 16
 Checkmarks: vvv --- ---  --- --- ---
 Cards:
 Items:
   Poison Dagger
   Minor Stamina Potion
+  Hide armor
+  Boots of Striding
 Perks:
 [ ] Remove two (-1) cards
 [ ] Replace one (-1) card with one (+1) card
