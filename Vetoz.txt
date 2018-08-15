@@ -1,9 +1,9 @@
 Quatryl Tinkerer
 Name: Vetoz
 Level: 1
-XP: 30
-Gold: 12
-Checkmarks: v-- --- ---  --- --- ---
+XP: 45
+Gold: 39
+Checkmarks: vv- --- ---  --- --- ---
 Cards:
 Items:
   Eagle-Eye Googles

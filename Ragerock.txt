@@ -1,9 +1,9 @@
 Savvas Cragheart
 Name: Ragerock
 Level: 1
-XP: 37
-Gold: 10
-Checkmarks: --- --- ---  --- --- ---
+XP: 51
+Gold: 35
+Checkmarks: v-- --- ---  --- --- ---
 Cards:
 Items:
   Boots of Striding

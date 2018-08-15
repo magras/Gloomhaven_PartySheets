@@ -2,6 +2,7 @@ Name: Love hurts (like a brick)
 Location: Gloomhaven
 Achievements:
   First Steps
+  Jekserah’s Plans
 Reputation:
   +20
   +19 -5

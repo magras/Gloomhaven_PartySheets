@@ -1,9 +1,9 @@
 Inox Brute
 Name: Dug
 Level: 1
-XP: 40
-Gold: 16
-Checkmarks: vvv --- ---  --- --- ---
+XP: 61
+Gold: 41
+Checkmarks: vvv vv- ---  --- --- ---
 Cards:
 Items:
   Poison Dagger
