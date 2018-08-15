@@ -10,8 +10,8 @@ Scenarios:
   [ ] #68 M-8 Toxic Moor
 Prosperity:
    0 1
--> 1
-   2
+   1
+-> 2
    3
    4
    5 2
@@ -86,5 +86,6 @@ City events:
   #04 removed
   #12 removed
   #71 added
+  #05 removed
 Road events:
   #10 removed

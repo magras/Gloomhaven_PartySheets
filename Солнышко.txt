@@ -1,14 +1,16 @@
 Valrath Sunkeeper
 Name: Солнышко
-Level: 1
+Level: 2
 XP: 57
-Gold: 35
+Gold: 26
 Checkmarks: vvv --- ---  --- --- ---
 Cards:
+  Practical Plans (lvl 2)
 Items:
   Winged Shoes
   Minor Stamina Potion
   Poison Dagger
+  Hide Armor
 Perks:
 [ ][ ] Remove two (-1) cards
 [ ] Remove four (+0) cards
@@ -17,7 +19,7 @@ Perks:
 [ ][ ] Add two (rolling +1) cards
 [ ][ ] Add two (rolling HEAL 1) cards
 [ ] Add one (rolling STUN) card
-[ ][ ] Add two (rolling LIGHT) cards
+[x][ ] Add two (rolling LIGHT) cards
 [ ] Add two (rolling SHIELD 1 self) cards
-[ ] Ignore negative item effects and add two (+1) cards
+[x] Ignore negative item effects and add two (+1) cards
 [ ] Ignore negative scenario effects
