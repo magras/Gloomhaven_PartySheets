@@ -11,13 +11,13 @@ Prosperity:
   8 ---- ---- ---
   9 ---- ---- ---- --
 Scenarios:
-  [x] #1 G-10 Black Barrow
-  [x] #2 G-11 Barrow Lair
-  [x] #3 G-3 Inox Encampment
-  [ ] #4 E-11 Crypt of the Damned
-  [ ] #8 C-18 Gloomhaven Warehouse
-  [ ] #9 L-2 Diamond Mine
-  [ ] #68 M-8 Toxic Moor
+  [x] #1 Black Barrow (G-10)
+  [x] #2 Barrow Lair (G-11)
+  [x] #3 Inox Encampment (G-3)
+  [ ] #4 Crypt of the Damned (E-11)
+  [ ] #8 Gloomhaven Warehouse (C-18)
+  [ ] #9 Diamond Mine (L-2)
+  [ ] #68 Toxic Moor (M-8)
 Item Designs:
   #107 Horned Helmet (drawn by mistake as random item design)
 City events:
