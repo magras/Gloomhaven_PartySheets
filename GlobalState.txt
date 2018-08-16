@@ -1,5 +1,6 @@
 Achievments:
   City Rule: Militaristic
+  The Merchant Flees
 Prosperity:
   1 x
   2 xx--
@@ -15,9 +16,13 @@ Scenarios:
   [x] #2 Barrow Lair (G-11)
   [x] #3 Inox Encampment (G-3)
   [ ] #4 Crypt of the Damned (E-11)
-  [ ] #8 Gloomhaven Warehouse (C-18)
+  [ ] #7 Vibrant Grotto (C-12)
+  [x] #8 Gloomhaven Warehouse (C-18)
   [ ] #9 Diamond Mine (L-2)
+  [ ] #13 Temple of the Seer (N-3)
+  [ ] #14 Frozen Hollow (C-10)
   [ ] #68 Toxic Moor (M-8)
+  [ ] #69 Well of the Unfortunate (F-8)
 Item Designs:
   #107 Horned Helmet
 City events:
@@ -31,3 +36,4 @@ Looted Threasures:
   #07 Random Side Scenario (#68)
   #67 Gain 10 gold (Dug)
   #65 "Horned Helm" design (Item #107)
+  #31 Random Side Scenario (#69)
