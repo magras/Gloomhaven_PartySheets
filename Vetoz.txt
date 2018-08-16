@@ -12,14 +12,14 @@ Items:
   Minor Stamina Potion
   Winged Shoes
 Perks:
-[ ][ ] Remove two (-1) cards
-[ ] Replace one (-2) card with one (+0) card
-[x] Add two (+1) cards
-[ ] Add one (+3) card
-[ ] Add tow (rolling FIRE) cards
-[ ] Add three (rolling MUDDLE) cards
-[ ][ ] Add one (+1 WOUND) card
-[ ][ ] Add one (+1 IMMOBILIZE) card
-[ ][ ] Add one (+1 HEAL 2) card
-[ ] Add one (+0 ADD TARGET) card
-[ ] Ignore negative scenario effects
+  [ ][ ] Remove two (-1) cards
+  [ ] Replace one (-2) card with one (+0) card
+  [x] Add two (+1) cards
+  [ ] Add one (+3) card
+  [ ] Add tow (rolling FIRE) cards
+  [ ] Add three (rolling MUDDLE) cards
+  [ ][ ] Add one (+1 WOUND) card
+  [ ][ ] Add one (+1 IMMOBILIZE) card
+  [ ][ ] Add one (+1 HEAL 2) card
+  [ ] Add one (+0 ADD TARGET) card
+  [ ] Ignore negative scenario effects
