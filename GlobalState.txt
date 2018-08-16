@@ -27,3 +27,7 @@ City events:
   #05 removed
 Road events:
   #10 removed
+Looted Threasures:
+  #07 Random Side Scenario (#68)
+  #67 Gain 10 gold (Dug)
+  #65 "Horned Helm" design (Item #107)
