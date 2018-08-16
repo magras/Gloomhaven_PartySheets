@@ -18,6 +18,8 @@ Prosperity:
   7 ---- ---- -
   8 ---- ---- ---
   9 ---- ---- ---- --
+Item Designs:
+  #107 Horned Helmet (drawn by mistake as random item design)
 City events:
   #04 removed
   #12 removed
