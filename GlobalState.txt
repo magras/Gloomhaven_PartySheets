@@ -19,7 +19,7 @@ Scenarios:
   [ ] #9 Diamond Mine (L-2)
   [ ] #68 Toxic Moor (M-8)
 Item Designs:
-  #107 Horned Helmet (drawn by mistake as random item design)
+  #107 Horned Helmet
 City events:
   #04 removed
   #12 removed
