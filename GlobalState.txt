@@ -30,8 +30,10 @@ City events:
   #12 removed
   #71 added
   #05 removed
+  #21 removed
 Road events:
   #10 removed
+  #65 added
 Looted Threasures:
   #07 Random Side Scenario (#68)
   #67 Gain 10 gold (Dug)
