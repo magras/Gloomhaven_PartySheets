@@ -1,9 +1,9 @@
 Savvas Cragheart
 Name: Ragerock
 Level: 2
-XP: 70
+XP: 87
 Gold: 56
-Checkmarks: v-- --- ---  --- --- ---
+Checkmarks: vvv --- ---  --- --- ---
 Cards:
   Sentient Growth (lvl 2)
 Items:
@@ -12,7 +12,7 @@ Items:
   Eagle-Eye Googles
 Perks:
   [ ] Remove four (+0) cards
-  [x][ ][ ] Replace one (-1) card with one (+1) card
+  [x][x][ ] Replace one (-1) card with one (+1) card
   [ ] Add one (-2) card and two (+2) cards
   [ ][ ] Add one (+1 IMMOBILIZE) card
   [ ][ ] Add one (+2 MUDDLE) card
