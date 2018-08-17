@@ -26,15 +26,19 @@ Scenarios:
   [ ] #69 Well of the Unfortunate (F-8)
 Item Designs:
   #107 Horned Helmet
+Donations:
+  Dug - 10 g
 City events:
   #04 removed
   #12 removed
   #71 added
   #05 removed
   #21 removed
+  #10 removed
 Road events:
   #10 removed
   #65 added
+  #13 removed
 Looted Threasures:
   #07 Random Side Scenario (#68)
   #67 Gain 10 gold (Dug)
