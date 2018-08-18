@@ -1,26 +1,28 @@
 Inox Brute
 Name: Dug
-Level: 2
-XP: 95
-Gold: 47
-Checkmarks: vvv vvv ---  --- --- ---
+Level: 3
+XP: 114
+Gold: 44
+Checkmarks: vvv vvv v--  --- --- ---
 Cards:
   Juggernaut (lvl 2)
+  Hook and Chain (lvl 3)
 Items:
   Poison Dagger
   Minor Stamina Potion
   Hide armor
   Boots of Striding
   Horned Helmet
+  Minor Power Potion
 Perks:
   [ ] Remove two (-1) cards
   [ ] Replace one (-1) card with one (+1) card
-  [x][ ] Add two (+1) cards
+  [x][x] Add two (+1) cards
   [ ] Add one (+3) card
   [ ][ ] Add three (rolling PUSH 1) cards
   [ ] Add two (rolling PIERCE 3) cards
   [ ][ ] Add one (rolling STUN) card
   [ ] Add one (rolling DISARM) card and one (rolling MUDDLE) card
   [ ][ ] Add one (rolling ADD TARGET) card
-  [ ] Add one (+1, SHIELD 1 self) card
+  [x] Add one (+1, SHIELD 1 self) card
   [x] Ignore negative item effects and add one (+1) card

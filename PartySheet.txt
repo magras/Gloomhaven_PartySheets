@@ -1,5 +1,5 @@
 Name: Love hurts (like a brick)
-Location: Gloomhaven
+Location: Necromancer’s Sanctum
 Achievements:
   First Steps
   Jekserah’s Plans
@@ -17,8 +17,8 @@ Reputation and Prices:
   +10
    +9
    +8
-   +7 -2
--> +6
+-> +7 -2
+   +6
    +5
    +4
    +3 -1

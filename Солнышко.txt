@@ -1,9 +1,9 @@
 Valrath Sunkeeper
 Name: Солнышко
 Level: 2
-XP: 91
-Gold: 56
-Checkmarks: vvv vvv ---  --- --- ---
+XP: 112
+Gold: 65
+Checkmarks: vvv vvv v--  --- --- ---
 Cards:
   Practical Plans (lvl 2)
 Items:

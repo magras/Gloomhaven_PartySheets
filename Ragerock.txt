@@ -1,11 +1,12 @@
 Savvas Cragheart
 Name: Ragerock
-Level: 2
-XP: 87
-Gold: 56
-Checkmarks: vvv --- ---  --- --- ---
+Level: 3
+XP: 105
+Gold: 62
+Checkmarks: vvv v-- ---  --- --- ---
 Cards:
   Sentient Growth (lvl 2)
+  Blunt Force (lvl 3)
 Items:
   Boots of Striding
   Minor Power Potion
@@ -15,7 +16,7 @@ Perks:
   [x][ ][ ] Replace one (-1) card with one (+1) card
   [ ] Add one (-2) card and two (+2) cards
   [ ][ ] Add one (+1 IMMOBILIZE) card
-  [x][ ] Add one (+2 MUDDLE) card
+  [x][x] Add one (+2 MUDDLE) card
   [ ] Add two (rolling PUSH 2) cards
   [ ][ ] Add two (rolling EARTH) cards
   [ ] Add two (rolling AIR) cards
