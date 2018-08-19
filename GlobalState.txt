@@ -19,7 +19,7 @@ Scenarios:
   [ ] #4 Crypt of the Damned (E-11)
   [x] #7 Vibrant Grotto (C-12)
   [x] #8 Gloomhaven Warehouse (C-18)
-  [ ] #9 Diamond Mine (L-2)
+  [-] #9 Diamond Mine (L-2)
   [ ] #13 Temple of the Seer (N-3)
   [x] #14 Frozen Hollow (C-10)
   [ ] #20 Necromancer’s Sanctum (H-13)
