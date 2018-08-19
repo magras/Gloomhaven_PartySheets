@@ -28,7 +28,7 @@ Scenarios:
 Item Designs:
   #107 Horned Helmet
 Donations:
-  Dug - 20 g
+  Dug - 10 g
 City events:
   #04 removed
   #12 removed
