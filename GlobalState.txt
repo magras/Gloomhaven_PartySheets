@@ -30,6 +30,7 @@ Scenarios:
   [ ] #69 Well of the Unfortunate (F-8)
 Item Designs:
   #107 Horned Helmet
+  #113 Skullbane Axe
 Donations:
   Dug - 10 g
 City events:
@@ -46,9 +47,8 @@ Road events:
   #26 removed
 Looted Threasures:
   #07 Random Side Scenario (#68)
-  #67 Gain 10 gold (Dug)
+  #67 Gain 10 gold [Dug]
   #65 "Horned Helm" design (Item #107)
   #31 Random Side Scenario (#69)
   #26 Gain 20 gold (Dug)
-  #60 Gain 'Skullbain Axe' (Солнышко)
-
+  #60 Gain 'Skullbain Axe' (Item #113) [Солнышко]
