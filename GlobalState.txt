@@ -4,7 +4,7 @@ Achievments:
   The Power of Encancement
 Prosperity:
   1 x
-  2 xx--
+  2 xxx-
   3 ---- -
   4 ---- --
   5 ---- ---
@@ -22,7 +22,10 @@ Scenarios:
   [-] #9 Diamond Mine (L-2)
   [ ] #13 Temple of the Seer (N-3)
   [x] #14 Frozen Hollow (C-10)
-  [ ] #20 Necromancer’s Sanctum (H-13)
+  [ ] #16 Mountain Pass (B-6)
+  [ ] #18 Abandoned Sewers (C-14)
+  [x] #20 Necromancer’s Sanctum (H-13)
+  [ ] #28 Outer Ritual Chamber (E-4)
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
 Item Designs:
@@ -47,3 +50,5 @@ Looted Threasures:
   #65 "Horned Helm" design (Item #107)
   #31 Random Side Scenario (#69)
   #26 Gain 20 gold (Dug)
+  #60 Gain 'Skullbain Axe' (Ñîëíûøêî)
+

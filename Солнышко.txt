@@ -1,9 +1,9 @@
 Valrath Sunkeeper
 Name: Солнышко
 Level: 2
-XP: 112
-Gold: 65
-Checkmarks: vvv vvv v--  --- --- ---
+XP: 131
+Gold: 106
+Checkmarks: vvv vvv vv-  --- --- ---
 Cards:
   Practical Plans (lvl 2)
 Items:
@@ -11,6 +11,7 @@ Items:
   Minor Stamina Potion
   Poison Dagger
   Hide Armor
+  Skullbain Axe
 Perks:
   [ ][ ] Remove two (-1) cards
   [ ] Remove four (+0) cards
