@@ -24,7 +24,7 @@ Scenarios:
   [x] #14 Frozen Hollow (C-10)
   [ ] #16 Mountain Pass (B-6)
   [ ] #18 Abandoned Sewers (C-14)
-  [x] #20 Necromancer’s Sanctum (H-13)
+  [x] #20 Necromancerâ€™s Sanctum (H-13)
   [ ] #28 Outer Ritual Chamber (E-4)
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
@@ -51,4 +51,4 @@ Looted Threasures:
   #65 "Horned Helm" design (Item #107)
   #31 Random Side Scenario (#69)
   #26 Gain 20 gold (Dug)
-  #60 Gain 'Skullbain Axe' (Item #113) [Ñîëíûøêî]
+  #60 Gain 'Skullbain Axe' (Item #113) [Ð¡Ð¾Ð»Ð½Ñ‹ÑˆÐºÐ¾]
