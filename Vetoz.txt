@@ -1,25 +1,27 @@
 Quatryl Tinkerer
 Name: Vetoz
-Level: 2
+Level: 3
 XP: 114
-Gold: 82
+Gold: 74
 Checkmarks: vvv vv- ---  --- --- ---
 Cards:
   Stamina Booster (lvl 2)
+  Tinkerer’s Tools (lvl 3)
 Items:
   Eagle-Eye Googles
   War Hammer
   Minor Stamina Potion
   Winged Shoes
+  Minor Power Potion
 Perks:
   [ ][ ] Remove two (-1) cards
   [ ] Replace one (-2) card with one (+0) card
   [x] Add two (+1) cards
   [x] Add one (+3) card
-  [ ] Add tow (rolling FIRE) cards
+  [ ] Add two (rolling FIRE) cards
   [ ] Add three (rolling MUDDLE) cards
   [ ][ ] Add one (+1 WOUND) card
   [ ][ ] Add one (+1 IMMOBILIZE) card
   [ ][ ] Add one (+1 HEAL 2) card
   [ ] Add one (+0 ADD TARGET) card
-  [ ] Ignore negative scenario effects
+  [x] Ignore negative scenario effects
