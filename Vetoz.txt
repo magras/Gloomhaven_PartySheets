@@ -1,9 +1,9 @@
 Quatryl Tinkerer
 Name: Vetoz
 Level: 3
-XP: 114
-Gold: 74
-Checkmarks: vvv vv- ---  --- --- ---
+XP: 134
+Gold: 89
+Checkmarks: vvv vvv ---  --- --- ---
 Cards:
   Stamina Booster (lvl 2)
   Tinkerer’s Tools (lvl 3)
@@ -15,7 +15,7 @@ Items:
   Minor Power Potion
 Perks:
   [ ][ ] Remove two (-1) cards
-  [ ] Replace one (-2) card with one (+0) card
+  [x] Replace one (-2) card with one (+0) card
   [x] Add two (+1) cards
   [x] Add one (+3) card
   [ ] Add two (rolling FIRE) cards

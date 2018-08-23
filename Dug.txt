@@ -1,9 +1,9 @@
 Inox Brute
 Name: Dug
 Level: 3
-XP: 137
-Gold: 74
-Checkmarks: vvv vvv vvv  --- --- ---
+XP: 153
+Gold: 86
+Checkmarks: vvv vvv vvv  v-- --- ---
 Cards:
   Juggernaut (lvl 2)
   Hook and Chain (lvl 3)
@@ -18,7 +18,7 @@ Perks:
   [x] Remove two (-1) cards
   [ ] Replace one (-1) card with one (+1) card
   [x][x] Add two (+1) cards
-  [ ] Add one (+3) card
+  [x] Add one (+3) card
   [ ][ ] Add three (rolling PUSH 1) cards
   [ ] Add two (rolling PIERCE 3) cards
   [ ][ ] Add one (rolling STUN) card

@@ -23,12 +23,16 @@ Scenarios:
   [ ] #13 Temple of the Seer (N-3)
   [x] #14 Frozen Hollow (C-10)
   [ ] #16 Mountain Pass (B-6)
-  [ ] #18 Abandoned Sewers (C-14)
+  [x] #18 Abandoned Sewers (C-14)
   [x] #20 Necromancer’s Sanctum (H-13)
+  [ ] #23 Deep Ruins 23 (C-15)
+  [ ] #26 Ancient Cistern 26 (D-15)
   [ ] #28 Outer Ritual Chamber (E-4)
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
+  [ ] #43 Drake Nest 43 (D-4)
 Item Designs:
+  #85 Wand of Infernos
   #107 Horned Helmet
   #113 Skullbane Axe
 Donations:
