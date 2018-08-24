@@ -3,6 +3,7 @@ Location: Gloomhaven
 Achievements:
   First Steps
   Jekserah’s Plans
+  A map to Treasure
 Reputation and Prices:
   +20
   +19 -5

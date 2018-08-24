@@ -2,7 +2,7 @@ Inox Brute
 Name: Dug
 Level: 3
 XP: 153
-Gold: 86
+Gold: 79
 Checkmarks: vvv vvv vvv  v-- --- ---
 Cards:
   Juggernaut (lvl 2)

@@ -25,16 +25,30 @@ Scenarios:
   [ ] #16 Mountain Pass (B-6)
   [x] #18 Abandoned Sewers (C-14)
   [x] #20 Necromancer’s Sanctum (H-13)
-  [ ] #23 Deep Ruins 23 (C-15)
-  [ ] #26 Ancient Cistern 26 (D-15)
+  [ ] #23 Deep Ruins (C-15)
+  [ ] #26 Ancient Cistern (D-15)
   [ ] #28 Outer Ritual Chamber (E-4)
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
-  [ ] #43 Drake Nest 43 (D-4)
+  [ ] #43 Drake Nest (D-4)
+  [ ] #93 Sunken Vessel (N-17)
 Item Designs:
   #85 Wand of Infernos
   #107 Horned Helmet
   #113 Skullbane Axe
+Enchancements:
+  Tinkerer
+    Restorative Mist (lvl 1)
+      bottom half
+        Move 2 +1
+  Cragheart
+    Blunt Force (lvl 3)
+      bottom half
+        Retaliate 1 Self +STRENGTHEN
+  Sunkeeper
+    Defensive Stance (lvl 1)
+      bottom half
+        Shield 1 +1
 Donations:
   Dug - 10 g
 City events:
@@ -44,6 +58,7 @@ City events:
   #05 removed
   #21 removed
   #10 removed
+  #08 removed
 Road events:
   #10 removed
   #65 added

@@ -2,7 +2,7 @@ Savvas Cragheart
 Name: Ragerock
 Level: 3
 XP: 149
-Gold: 100
+Gold: 0
 Checkmarks: vvv vv- ---  --- --- ---
 Cards:
   Sentient Growth (lvl 2)
