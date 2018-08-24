@@ -73,3 +73,5 @@ Looted Threasures:
   #31 Random Side Scenario (#69)
   #26 Gain 20 gold (Dug)
   #60 Gain 'Skullbain Axe' (Item #113) [Солнышко]
+  #39 Suffer 5 damage
+  #72 “Fueled Falchion” design (Item 116)
