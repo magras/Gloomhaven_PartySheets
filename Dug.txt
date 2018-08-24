@@ -1,12 +1,13 @@
 Inox Brute
 Name: Dug
-Level: 3
-XP: 153
-Gold: 79
-Checkmarks: vvv vvv vvv  v-- --- ---
+Level: 4
+XP: 170
+Gold: 88
+Checkmarks: vvv vvv vvv  vv- --- ---
 Cards:
   Juggernaut (lvl 2)
   Hook and Chain (lvl 3)
+  Unstoppable Charge (lvl 4)
 Items:
   Poison Dagger
   Minor Stamina Potion

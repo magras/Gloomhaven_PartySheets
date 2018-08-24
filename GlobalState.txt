@@ -2,6 +2,7 @@ Achievments:
   City Rule: Militaristic
   The Merchant Flees
   The Power of Encancement
+  Ancient Technology
 Prosperity:
   1 x
   2 xxx-
@@ -25,7 +26,7 @@ Scenarios:
   [ ] #16 Mountain Pass (B-6)
   [x] #18 Abandoned Sewers (C-14)
   [x] #20 Necromancer’s Sanctum (H-13)
-  [ ] #23 Deep Ruins (C-15)
+  [x] #23 Deep Ruins (C-15)
   [ ] #26 Ancient Cistern (D-15)
   [ ] #28 Outer Ritual Chamber (E-4)
   [ ] #68 Toxic Moor (M-8)
@@ -36,6 +37,7 @@ Item Designs:
   #85 Wand of Infernos
   #107 Horned Helmet
   #113 Skullbane Axe
+  #116 Fueled Falchion
 Enchancements:
   Tinkerer
     Restorative Mist (lvl 1)

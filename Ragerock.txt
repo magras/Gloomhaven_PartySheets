@@ -1,9 +1,9 @@
 Savvas Cragheart
 Name: Ragerock
 Level: 3
-XP: 149
+XP: 168
 Gold: 0
-Checkmarks: vvv vv- ---  --- --- ---
+Checkmarks: vvv vvv v--  --- --- ---
 Cards:
   Sentient Growth (lvl 2)
   Blunt Force (lvl 3)
@@ -13,7 +13,7 @@ Items:
   Eagle-Eye Googles
 Perks:
   [ ] Remove four (+0) cards
-  [x][ ][ ] Replace one (-1) card with one (+1) card
+  [x][x][ ] Replace one (-1) card with one (+1) card
   [ ] Add one (-2) card and two (+2) cards
   [ ][ ] Add one (+1 IMMOBILIZE) card
   [x][x] Add one (+2 MUDDLE) card
