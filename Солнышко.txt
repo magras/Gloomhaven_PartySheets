@@ -1,23 +1,24 @@
 Valrath Sunkeeper
 Name: Солнышко
-Level: 2
+Level: 4
 XP: 171
-Gold: 56
+Gold: 81
 Checkmarks: vvv vvv vvv  v-- --- ---
 Cards:
   Practical Plans (lvl 2)
+  Mobilizing Axiom (lvl 3)
+  Righteous Strength (lvl 4)
 Items:
   Winged Shoes
   Minor Stamina Potion
   Poison Dagger
   Hide Armor
-  Skullbain Axe
 Perks:
   [ ][ ] Remove two (-1) cards
   [ ] Remove four (+0) cards
   [x] Replace one (-2) card with one (+0) card
   [x] Replace one (+0) card with one (+2) card
-  [ ][ ] Add two (rolling +1) cards
+  [x][ ] Add two (rolling +1) cards
   [ ][ ] Add two (rolling HEAL 1) cards
   [ ] Add one (rolling STUN) card
   [x][ ] Add two (rolling LIGHT) cards

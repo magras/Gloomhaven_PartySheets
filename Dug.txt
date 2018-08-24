@@ -2,7 +2,7 @@ Inox Brute
 Name: Dug
 Level: 4
 XP: 170
-Gold: 88
+Gold: 40
 Checkmarks: vvv vvv vvv  vv- --- ---
 Cards:
   Juggernaut (lvl 2)
@@ -15,6 +15,7 @@ Items:
   Boots of Striding
   Horned Helmet
   Minor Power Potion
+  Skullbane Axe
 Perks:
   [x] Remove two (-1) cards
   [ ] Replace one (-1) card with one (+1) card
