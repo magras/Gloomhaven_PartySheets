@@ -17,7 +17,9 @@ Scenarios:
   [x] #1 Black Barrow (G-10)
   [x] #2 Barrow Lair (G-11)
   [x] #3 Inox Encampment (G-3)
-  [ ] #4 Crypt of the Damned (E-11)
+  [x] #4 Crypt of the Damned (E-11)
+  [ ] #5 Ruinous Crypt (D-6)
+  [ ] #6 Decaying Crypt (F-10)
   [x] #7 Vibrant Grotto (C-12)
   [x] #8 Gloomhaven Warehouse (C-18)
   [-] #9 Diamond Mine (L-2)
@@ -39,6 +41,7 @@ Item Designs:
   #107 Horned Helmet
   #113 Skullbane Axe
   #116 Fueled Falchion
+  #123 Ring of Skulls
 Enchancements:
   Tinkerer
     Restorative Mist (lvl 1)
@@ -53,7 +56,7 @@ Enchancements:
       bottom half
         Shield 1 +1
 Donations:
-  Dug - 10 g
+  Dug - 20 g
 City events:
   #04 removed
   #12 removed
@@ -75,8 +78,10 @@ Looted Threasures:
   #67 Gain 10 gold [Dug]
   #65 "Horned Helm" design (Item #107)
   #31 Random Side Scenario (#69)
-  #26 Gain 20 gold (Dug)
+  #26 Gain 20 gold [Dug]
   #60 Gain 'Skullbain Axe' (Item #113) [Солнышко]
   #39 Suffer 5 damage
   #72 “Fueled Falchion” design (Item 116)
   #66 Fain "Volatile Bomb" (Item 33) [Солнышко]
+  #46 Suffer 3 damage, gain POISON
+  #38 “Ring of Skulls” design (Item 123)

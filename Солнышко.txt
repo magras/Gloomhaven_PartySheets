@@ -1,9 +1,9 @@
 Valrath Sunkeeper
 Name: Солнышко
 Level: 4
-XP: 197
+XP: 218
 Gold: 98
-Checkmarks: vvv vvv vvv  vv- --- ---
+Checkmarks: vvv vvv vvv  vvv v-- ---
 Cards:
   Practical Plans (lvl 2)
   Mobilizing Axiom (lvl 3)
