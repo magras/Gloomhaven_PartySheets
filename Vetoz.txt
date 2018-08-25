@@ -2,7 +2,7 @@ Quatryl Tinkerer
 Name: Vetoz
 Level: 4
 XP: 171
-Gold: 114
+Gold: 84
 Checkmarks: vvv vvv vvv  --- --- ---
 Cards:
   Stamina Booster (lvl 2)
@@ -14,6 +14,9 @@ Items:
   Minor Stamina Potion
   Winged Shoes
   Minor Power Potion
+  Cloak of Pockets
+  Minor Mana Potion
+  Minor Healing Potion
 Perks:
   [ ][ ] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card

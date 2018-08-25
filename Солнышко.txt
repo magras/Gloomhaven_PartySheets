@@ -2,7 +2,7 @@ Valrath Sunkeeper
 Name: Солнышко
 Level: 4
 XP: 197
-Gold: 103
+Gold: 98
 Checkmarks: vvv vvv vvv  vv- --- ---
 Cards:
   Practical Plans (lvl 2)
@@ -14,6 +14,7 @@ Items:
   Poison Dagger
   Hide Armor
   Volotile Bomb
+  Minor Healing Potion
 Perks:
   [ ][ ] Remove two (-1) cards
   [ ] Remove four (+0) cards
