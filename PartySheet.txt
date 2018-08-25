@@ -5,6 +5,7 @@ Achievements:
   Jekserah’s Plans
   A map to Treasure
   Through the Ruins
+  Following Clues
 Reputation and Prices:
   +20
   +19 -5
@@ -15,8 +16,8 @@ Reputation and Prices:
   +14
   +13
   +12
-  +11 -3
-> +10
+> +11 -3
+  +10
    +9
    +8
    +7 -2

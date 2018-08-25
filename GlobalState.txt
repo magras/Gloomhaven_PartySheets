@@ -5,8 +5,8 @@ Achievments:
   Ancient Technology
 Prosperity:
   1 x
-  2 xxx-
-  3 ---- -
+  2 xxxx
+  3 x--- -
   4 ---- --
   5 ---- ---
   6 ---- ----
@@ -26,8 +26,9 @@ Scenarios:
   [ ] #16 Mountain Pass (B-6)
   [x] #18 Abandoned Sewers (C-14)
   [x] #20 Necromancer’s Sanctum (H-13)
+  [ ] #22 Temple of the Elements (K-8)
   [x] #23 Deep Ruins (C-15)
-  [ ] #26 Ancient Cistern (D-15)
+  [x] #26 Ancient Cistern (D-15)
   [ ] #28 Outer Ritual Chamber (E-4)
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
@@ -75,3 +76,4 @@ Looted Threasures:
   #60 Gain 'Skullbain Axe' (Item #113) [Солнышко]
   #39 Suffer 5 damage
   #72 “Fueled Falchion” design (Item 116)
+  #66 Fain "Volatile Bomb" (Item 33) [Солнышко]

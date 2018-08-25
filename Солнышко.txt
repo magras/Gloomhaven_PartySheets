@@ -1,9 +1,9 @@
 Valrath Sunkeeper
 Name: Солнышко
 Level: 4
-XP: 171
-Gold: 81
-Checkmarks: vvv vvv vvv  v-- --- ---
+XP: 197
+Gold: 103
+Checkmarks: vvv vvv vvv  vv- --- ---
 Cards:
   Practical Plans (lvl 2)
   Mobilizing Axiom (lvl 3)
@@ -13,6 +13,7 @@ Items:
   Minor Stamina Potion
   Poison Dagger
   Hide Armor
+  Volotile Bomb
 Perks:
   [ ][ ] Remove two (-1) cards
   [ ] Remove four (+0) cards
