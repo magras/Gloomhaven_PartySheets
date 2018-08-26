@@ -38,7 +38,7 @@ Scenarios:
   [ ] #93 Sunken Vessel (N-17)
 Item Designs:
   #85 Wand of Infernos
-  #107 Horned Helmet
+  #107 Horned Helm
   #113 Skullbane Axe
   #116 Fueled Falchion
   #123 Ring of Skulls
