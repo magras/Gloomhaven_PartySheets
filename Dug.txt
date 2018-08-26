@@ -2,7 +2,7 @@ Inox Brute
 Name: Dug (Ёжик)
 Level: 4
 XP: 208
-Gold: 57
+Gold: 47
 Checkmarks: vvv vvv vvv  vvv v-- ---
 Cards:
   Juggernaut (lvl 2)
