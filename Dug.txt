@@ -1,5 +1,5 @@
 Inox Brute
-Name: Dug
+Name: Dug (Ёжик)
 Level: 4
 XP: 208
 Gold: 57
@@ -28,3 +28,5 @@ Perks:
   [ ][ ] Add one (rolling ADD TARGET) card
   [x] Add one (+1, SHIELD 1 self) card
   [x] Ignore negative item effects and add one (+1) card
+
+Personal Quest: #520 retired

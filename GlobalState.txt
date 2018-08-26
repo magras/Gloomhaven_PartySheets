@@ -47,6 +47,9 @@ Enchancements:
     Restorative Mist (lvl 1)
       bottom half
         Move 2 +1
+    Reviving Shock (lvl 1)
+      top half
+        Add Target 2 +1
   Cragheart
     Blunt Force (lvl 3)
       bottom half
@@ -55,8 +58,11 @@ Enchancements:
     Defensive Stance (lvl 1)
       bottom half
         Shield 1 +1
+    Hammer Blow (lvl 1)
+      bottom half
+        Move 4 +1
 Donations:
-  Dug - 20 g
+  Dug - 30 g
 City events:
   #04 removed
   #12 removed
@@ -67,12 +73,17 @@ City events:
   #08 removed
   #25 removed
   #73 added
+  #28 removed
+  #31 added
+  #42 added
 Road events:
   #10 removed
   #65 added
   #13 removed
   #26 removed
   #11 removed
+  #31 added
+  #42 added
 Looted Threasures:
   #07 Random Side Scenario (#68)
   #67 Gain 10 gold [Dug]

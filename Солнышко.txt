@@ -1,13 +1,14 @@
 Valrath Sunkeeper
 Name: Солнышко
-Level: 4
+Level: 5
 XP: 218
-Gold: 98
+Gold: 61
 Checkmarks: vvv vvv vvv  vvv v-- ---
 Cards:
   Practical Plans (lvl 2)
   Mobilizing Axiom (lvl 3)
   Righteous Strength (lvl 4)
+  Engulfing Radiance (lvl 4)
 Items:
   Winged Shoes
   Minor Stamina Potion
@@ -15,14 +16,15 @@ Items:
   Hide Armor
   Volotile Bomb
   Minor Healing Potion
+  Iron Helmet
 Perks:
   [ ][ ] Remove two (-1) cards
   [ ] Remove four (+0) cards
   [x] Replace one (-2) card with one (+0) card
   [x] Replace one (+0) card with one (+2) card
-  [x][ ] Add two (rolling +1) cards
+  [x][x] Add two (rolling +1) cards
   [ ][ ] Add two (rolling HEAL 1) cards
-  [ ] Add one (rolling STUN) card
+  [x] Add one (rolling STUN) card
   [x][ ] Add two (rolling LIGHT) cards
   [ ] Add two (rolling SHIELD 1 self) cards
   [x] Ignore negative item effects and add two (+1) cards
