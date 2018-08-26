@@ -1,5 +1,6 @@
 Quatryl Tinkerer
 Name: Vetoz
+Generation: 0
 Level: 4
 XP: 177
 Gold: 20

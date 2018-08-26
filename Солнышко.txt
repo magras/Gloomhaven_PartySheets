@@ -1,5 +1,6 @@
 Valrath Sunkeeper
 Name: Солнышко
+Generation: 0
 Level: 5
 XP: 218
 Gold: 61

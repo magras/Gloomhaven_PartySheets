@@ -1,5 +1,6 @@
 Savvas Cragheart
 Name: Ragerock
+Generation: 0
 Level: 5
 XP: 211
 Gold: 28
