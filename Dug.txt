@@ -2,20 +2,20 @@ Inox Brute
 Name: Dug (Ёжик)
 Level: 4
 XP: 208
-Gold: 47
+Gold: 47 (+75g from selling all items)
 Checkmarks: vvv vvv vvv  vvv v-- ---
 Cards:
   Juggernaut (lvl 2)
   Hook and Chain (lvl 3)
   Unstoppable Charge (lvl 4)
 Items:
-  Poison Dagger
-  Minor Stamina Potion
-  Hide armor
-  Boots of Striding
-  Horned Helm
-  Minor Power Potion
-  Skullbane Axe
+  Poison Dagger - 20g
+  Minor Stamina Potion - 10g
+  Hide armor - 10g
+  Boots of Striding - 20g
+  Horned Helm - 30g
+  Minor Power Potion - 10g
+  Skullbane Axe - 50g
 Perks:
   [x] Remove two (-1) cards
   [x] Replace one (-1) card with one (+1) card
