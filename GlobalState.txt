@@ -93,6 +93,6 @@ Looted Threasures:
   #60 Gain 'Skullbain Axe' (Item #113) [Солнышко]
   #39 Suffer 5 damage
   #72 “Fueled Falchion” design (Item 116)
-  #66 Fain "Volatile Bomb" (Item 33) [Солнышко]
+  #66 Gain "Volatile Bomb" (Item 33) [Солнышко]
   #46 Suffer 3 damage, gain POISON
   #38 “Ring of Skulls” design (Item 123)
