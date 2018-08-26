@@ -24,3 +24,5 @@ Perks:
   [ ] Add two (rolling AIR) cards
   [ ] Ignore negative item effects
   [x] Ignore negative scenario effects
+
+Personal Quest: #518
