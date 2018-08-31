@@ -35,7 +35,7 @@ Scenarios:
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
   [ ] #43 Drake Nest (D-4)
-  [ ] #93 Sunken Vessel (N-17)
+  [x] #93 Sunken Vessel (N-17)
 Item Designs:
   #85 Wand of Infernos
   #107 Horned Helm
@@ -96,3 +96,4 @@ Looted Threasures:
   #66 Gain "Volatile Bomb" (Item 33) [Солнышко]
   #46 Suffer 3 damage, gain POISON
   #38 “Ring of Skulls” design (Item 123)
+  #54 Gain “Doomed Compass” (Item 124) [Солнышко]

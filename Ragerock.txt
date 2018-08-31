@@ -2,9 +2,9 @@ Savvas Cragheart
 Name: Ragerock
 Generation: 0
 Level: 5
-XP: 211
-Gold: 28
-Checkmarks: vvv vvv vvv  vv- --- ---
+XP: 249
+Gold: 40
+Checkmarks: vvv vvv vvv  vvv --- ---
 Cards:
   Sentient Growth (lvl 2)
   Blunt Force (lvl 3)
