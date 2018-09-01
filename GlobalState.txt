@@ -35,7 +35,7 @@ Scenarios:
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
   [ ] #43 Drake Nest (D-4)
-  [ ] #81 Temple of the Eclipse (D-2)
+  [x] #81 Temple of the Eclipse (D-2)
   [x] #93 Sunken Vessel (N-17)
 Item Designs:
   #85 Wand of Infernos
@@ -78,6 +78,7 @@ City events:
   #31 added
   #42 added
   #17 removed
+  #87 removed
 Road events:
   #10 removed
   #65 added
