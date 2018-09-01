@@ -1,14 +1,15 @@
 Human Scoundrel
 Name:
 Generation: 1
-Level:
-XP: 45
-Gold: 21
-Checkmarks: --- --- ---  --- --- ---
+Level: 2
+XP: 78
+Gold: 33
+Checkmarks: v-- --- ---  --- --- ---
 Cards:
 Items:
   Cloak of Invisibility
   Minor Stamina Potion
+  Helix Ring
 Perks:
   [ ][ ] Remove two (-1) cards
   [ ] Remove four (+0) cards
