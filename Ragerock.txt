@@ -1,7 +1,7 @@
 Savvas Cragheart
 Name: Ragerock
 Generation: 0
-Level: 5
+Level: 6
 XP: 278
 Gold: 55
 Checkmarks: vvv vvv vvv  vvv --- ---
@@ -10,6 +10,7 @@ Cards:
   Blunt Force (lvl 3)
   Rock Slide (lvl 4)
   Kinetic Assault (lvl 4)
+  Cataclism (lvl 6)
 Items:
   Boots of Striding
   Minor Power Potion

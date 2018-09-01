@@ -1,7 +1,7 @@
 Quatryl Tinkerer
 Name: Vetoz
 Generation: 0
-Level: 4
+Level: 5
 XP: 224
 Gold: 59
 Checkmarks: vvv vvv vvv  vvv v-- ---
@@ -9,6 +9,7 @@ Cards:
   Stamina Booster (lvl 2)
   Tinkerer’s Tools (lvl 3)
   Micro Bots (lvl 4)
+  Noxious Vials (lvl 5)
 Items:
   Eagle-Eye Googles
   War Hammer
@@ -25,7 +26,7 @@ Perks:
   [x] Add one (+3) card
   [ ] Add two (rolling FIRE) cards
   [ ] Add three (rolling MUDDLE) cards
-  [x][ ] Add one (+1 WOUND) card
+  [x][x] Add one (+1 WOUND) card
   [ ][ ] Add one (+1 IMMOBILIZE) card
   [x][x] Add one (+1 HEAL 2) card
   [ ] Add one (+0 ADD TARGET) card

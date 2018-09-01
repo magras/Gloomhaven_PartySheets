@@ -1,7 +1,7 @@
 Valrath Sunkeeper
 Name: Солнышко
 Generation: 0
-Level: 5
+Level: 6
 XP: 280
 Gold: 82
 Checkmarks: vvv vvv vvv  vvv vvv ---
@@ -10,6 +10,7 @@ Cards:
   Mobilizing Axiom (lvl 3)
   Righteous Strength (lvl 4)
   Engulfing Radiance (lvl 4)
+  Supportive Chant (lvl 6)
 Items:
   Winged Shoes
   Minor Stamina Potion
@@ -20,7 +21,7 @@ Items:
   Iron Helmet
   Doomed Compass
 Perks:
-  [ ][ ] Remove two (-1) cards
+  [x][x] Remove two (-1) cards
   [ ] Remove four (+0) cards
   [x] Replace one (-2) card with one (+0) card
   [x] Replace one (+0) card with one (+2) card
