@@ -24,7 +24,7 @@ Perks:
   [ ] Add two (rolling PUSH 2) cards
   [ ][ ] Add two (rolling EARTH) cards
   [ ] Add two (rolling AIR) cards
-  [ ] Ignore negative item effects
+  [x] Ignore negative item effects
   [x] Ignore negative scenario effects
 
 Personal Quest: #518
