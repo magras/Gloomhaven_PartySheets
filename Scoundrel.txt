@@ -3,7 +3,7 @@ Name:
 Generation: 1
 Level: 2
 XP: 97
-Gold: 73
+Gold: 63
 Checkmarks: vv- --- ---  --- --- ---
 Cards:
 Items:

@@ -80,6 +80,8 @@ City events:
   #42 added
   #17 removed
   #87 removed
+  #16 removed
+  #70 added
 Road events:
   #10 removed
   #65 added
