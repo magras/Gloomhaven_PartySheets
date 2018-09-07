@@ -2,9 +2,9 @@ Quatryl Tinkerer
 Name: Vetoz
 Generation: 0
 Level: 5
-XP: 224
-Gold: 59
-Checkmarks: vvv vvv vvv  vvv v-- ---
+XP: 240
+Gold: 42
+Checkmarks: vvv vvv vvv  vvv vvv ---
 Cards:
   Stamina Booster (lvl 2)
   Tinkerer’s Tools (lvl 3)
@@ -19,6 +19,7 @@ Items:
   Cloak of Pockets
   Minor Mana Potion
   Minor Healing Potion
+  Stun Powder
 Perks:
   [ ][ ] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card
