@@ -3,13 +3,14 @@ Name:
 Generation: 1
 Level: 2
 XP: 97
-Gold: 63
+Gold: 47
 Checkmarks: vv- --- ---  --- --- ---
 Cards:
 Items:
   Cloak of Invisibility
   Minor Stamina Potion
   Helix Ring
+  Winged Shoes
 Perks:
   [ ][ ] Remove two (-1) cards
   [ ] Remove four (+0) cards

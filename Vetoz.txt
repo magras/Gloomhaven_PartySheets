@@ -3,7 +3,7 @@ Name: Vetoz
 Generation: 0
 Level: 5
 XP: 240
-Gold: 42
+Gold: 36
 Checkmarks: vvv vvv vvv  vvv vvv ---
 Cards:
   Stamina Booster (lvl 2)
@@ -14,12 +14,12 @@ Items:
   Eagle-Eye Googles
   War Hammer
   Minor Stamina Potion
-  Winged Shoes
   Minor Power Potion
   Cloak of Pockets
   Minor Mana Potion
   Minor Healing Potion
   Stun Powder
+  Boots of Striding
 Perks:
   [ ][ ] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card
@@ -28,7 +28,7 @@ Perks:
   [ ] Add two (rolling FIRE) cards
   [ ] Add three (rolling MUDDLE) cards
   [x][x] Add one (+1 WOUND) card
-  [ ][ ] Add one (+1 IMMOBILIZE) card
+  [x][ ] Add one (+1 IMMOBILIZE) card
   [x][x] Add one (+1 HEAL 2) card
   [ ] Add one (+0 ADD TARGET) card
   [x] Ignore negative scenario effects
