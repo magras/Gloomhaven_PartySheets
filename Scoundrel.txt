@@ -3,7 +3,7 @@ Name:
 Generation: 1
 Level: 2
 XP: 97
-Gold: 47
+Gold: 1
 Checkmarks: vv- --- ---  --- --- ---
 Cards:
 Items:
@@ -11,6 +11,7 @@ Items:
   Minor Stamina Potion
   Helix Ring
   Winged Shoes
+  Ring of Skulls
 Perks:
   [ ][ ] Remove two (-1) cards
   [ ] Remove four (+0) cards
