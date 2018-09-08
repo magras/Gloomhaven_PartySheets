@@ -2,16 +2,16 @@ Aesther Summoner
 Name:
 Generation: 1
 Level: 2
-XP: 76
-Gold: 50
-Checkmarks: v-- --- ---  --- --- ---
+XP: 92
+Gold: 96
+Checkmarks: vv- --- ---  --- --- ---
 Cards:
 Items:
   Minor Stamina Potion
 Perks:
   [ ] Remove two (-1) cards
-  [ ] Replace one (-2) card with one (+0) card
-  [ ][ ][ ] Replace one (-1) card with one (+1) card
+  [x] Replace one (-2) card with one (+0) card
+  [x][ ][ ] Replace one (-1) card with one (+1) card
   [ ][ ] Add one (+2) card
   [ ] Add two (rolling WOUND) cards
   [ ] Add two (rolling POISON) cards

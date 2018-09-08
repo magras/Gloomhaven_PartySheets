@@ -2,9 +2,9 @@ Human Scoundrel
 Name:
 Generation: 1
 Level: 2
-XP: 97
-Gold: 1
-Checkmarks: vv- --- ---  --- --- ---
+XP: 113
+Gold: 56
+Checkmarks: vvv --- ---  --- --- ---
 Cards:
 Items:
   Cloak of Invisibility

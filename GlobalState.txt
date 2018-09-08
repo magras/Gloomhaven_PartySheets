@@ -26,20 +26,23 @@ Scenarios:
   [x] #13 Temple of the Seer (N-3)
   [x] #14 Frozen Hollow (C-10)
   [ ] #16 Mountain Pass (B-6)
-  [ ] #17 Lost Island (K-17)
+  [x] #17 Lost Island (K-17)
   [x] #18 Abandoned Sewers (C-14)
   [x] #20 Necromancer’s Sanctum (H-13)
   [ ] #22 Temple of the Elements (K-8)
   [x] #23 Deep Ruins (C-15)
   [x] #26 Ancient Cistern (D-15)
   [ ] #28 Outer Ritual Chamber (E-4)
+  [ ] #64 Underwater Lagoon (K-16)
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
+  [ ] #70 Chained Isle (J-17)
   [ ] #43 Drake Nest (D-4)
   [x] #81 Temple of the Eclipse (D-2)
   [x] #93 Sunken Vessel (N-17)
 Item Designs:
   #85 Wand of Infernos
+  #89 Minor Cure Potion
   #107 Horned Helm
   #113 Skullbane Axe
   #116 Fueled Falchion
@@ -106,3 +109,4 @@ Looted Threasures:
   #38 “Ring of Skulls” design (Item 123)
   #54 Gain “Doomed Compass” (Item 124) [Солнышко]
   #10 Gain 10 expirience [Ragerock]
+  #71 Random Side Scenario ()
