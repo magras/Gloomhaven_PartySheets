@@ -33,11 +33,11 @@ Scenarios:
   [x] #23 Deep Ruins (C-15)
   [x] #26 Ancient Cistern (D-15)
   [ ] #28 Outer Ritual Chamber (E-4)
+  [ ] #43 Drake Nest (D-4)
   [ ] #64 Underwater Lagoon (K-16)
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
   [ ] #70 Chained Isle (J-17)
-  [ ] #43 Drake Nest (D-4)
   [x] #81 Temple of the Eclipse (D-2)
   [x] #93 Sunken Vessel (N-17)
 Item Designs:
