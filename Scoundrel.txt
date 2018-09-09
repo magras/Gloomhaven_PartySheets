@@ -1,11 +1,13 @@
 Human Scoundrel
 Name:
 Generation: 1
-Level: 2
+Level: 3
 XP: 113
-Gold: 56
+Gold: 55
 Checkmarks: vvv --- ---  --- --- ---
 Cards:
+  Open Wound (lvl 2)
+  Duelist's Advance (lvl 3)
 Items:
   Cloak of Invisibility
   Minor Stamina Potion
@@ -13,7 +15,7 @@ Items:
   Winged Shoes
   Ring of Skulls
 Perks:
-  [ ][ ] Remove two (-1) cards
+  [x][x] Remove two (-1) cards
   [ ] Remove four (+0) cards
   [x] Replace one (-2) card with one (+0) card
   [x] Replace one (-1) card with one (+1) card

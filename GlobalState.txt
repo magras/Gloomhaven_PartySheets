@@ -41,6 +41,7 @@ Scenarios:
   [x] #81 Temple of the Eclipse (D-2)
   [x] #93 Sunken Vessel (N-17)
 Item Designs:
+  #79 Inferno Blade
   #85 Wand of Infernos
   #89 Minor Cure Potion
   #107 Horned Helm
