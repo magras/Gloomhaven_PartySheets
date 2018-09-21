@@ -3,7 +3,7 @@ Name:
 Generation: 1
 Level: 3
 XP: 113
-Gold: 55
+Gold: 28
 Checkmarks: vvv --- ---  --- --- ---
 Cards:
   Open Wound (lvl 2)
@@ -14,6 +14,7 @@ Items:
   Helix Ring
   Winged Shoes
   Ring of Skulls
+  Horned Helm
 Perks:
   [x][x] Remove two (-1) cards
   [ ] Remove four (+0) cards

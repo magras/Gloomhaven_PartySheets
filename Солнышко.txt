@@ -2,8 +2,8 @@ Valrath Sunkeeper
 Name: Солнышко
 Generation: 0
 Level: 6
-XP: 321
-Gold: 164
+XP: 332
+Gold: 13
 Checkmarks: vvv vvv vvv  vvv vvv v--
 Cards:
   Practical Plans (lvl 2)
@@ -20,6 +20,9 @@ Items:
   Minor Healing Potion
   Iron Helmet
   Doomed Compass
+  Cloack of Pockets
+  Minor Mana Potion
+  Stun Powder
 Perks:
   [x][x] Remove two (-1) cards
   [ ] Remove four (+0) cards

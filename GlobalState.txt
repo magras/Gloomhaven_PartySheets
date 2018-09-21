@@ -62,13 +62,18 @@ Enchancements:
         Retaliate 1 Self +STRENGTHEN
   Sunkeeper
     Defensive Stance (lvl 1)
+      top half
+        Attack 4 +1
       bottom half
         Shield 1 +1
     Hammer Blow (lvl 1)
+      top half
+        Attack 4 +1
       bottom half
         Move 4 +1
 Donations:
   Dug - 30 g
+  Солнышко - 10 g
 City events:
   #04 removed
   #12 removed
@@ -86,6 +91,7 @@ City events:
   #87 removed
   #16 removed
   #70 added
+  #11 removed
 Road events:
   #10 removed
   #65 added
