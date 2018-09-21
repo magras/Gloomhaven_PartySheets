@@ -2,9 +2,9 @@ Quatryl Tinkerer
 Name: Vetoz
 Generation: 0
 Level: 5
-XP: 256
-Gold: 81
-Checkmarks: vvv vvv vvv  vvv vvv vv-
+XP: 269
+Gold: 90
+Checkmarks: vvv vvv vvv  vvv vvv vvv
 Cards:
   Stamina Booster (lvl 2)
   Tinkerer’s Tools (lvl 3)

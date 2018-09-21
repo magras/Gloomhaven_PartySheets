@@ -25,12 +25,14 @@ Scenarios:
   [-] #9 Diamond Mine (L-2)
   [x] #13 Temple of the Seer (N-3)
   [x] #14 Frozen Hollow (C-10)
-  [ ] #16 Mountain Pass (B-6)
+  [x] #16 Mountain Pass (B-6)
   [x] #17 Lost Island (K-17)
   [x] #18 Abandoned Sewers (C-14)
   [x] #20 Necromancer’s Sanctum (H-13)
   [ ] #22 Temple of the Elements (K-8)
   [x] #23 Deep Ruins (C-15)
+  [ ] #24 Echo Chamber (C-6)
+  [ ] #25 Icecrag Ascent (A-5)
   [x] #26 Ancient Cistern (D-15)
   [ ] #28 Outer Ritual Chamber (E-4)
   [ ] #43 Drake Nest (D-4)
@@ -44,6 +46,7 @@ Item Designs:
   #79 Inferno Blade
   #85 Wand of Infernos
   #89 Minor Cure Potion
+  #94 Scroll of Healing
   #107 Horned Helm
   #113 Skullbane Axe
   #116 Fueled Falchion
@@ -117,3 +120,4 @@ Looted Threasures:
   #54 Gain “Doomed Compass” (Item 124) [Солнышко]
   #10 Gain 10 expirience [Ragerock]
   #71 Random Side Scenario ()
+  #01 Random Item Design (#94)

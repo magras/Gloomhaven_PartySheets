@@ -2,15 +2,15 @@ Aesther Summoner
 Name:
 Generation: 1
 Level: 2
-XP: 92
-Gold: 94
-Checkmarks: vv- --- ---  --- --- ---
+XP: 108
+Gold: 106
+Checkmarks: vvv --- ---  --- --- ---
 Cards:
   Earthen Steed (lvl 2)
 Items:
   Minor Stamina Potion
 Perks:
-  [ ] Remove two (-1) cards
+  [x] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card
   [ ][ ][ ] Replace one (-1) card with one (+1) card
   [ ][ ] Add one (+2) card
