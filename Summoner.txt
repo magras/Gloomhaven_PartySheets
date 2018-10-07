@@ -2,13 +2,14 @@ Aesther Summoner
 Name:
 Generation: 1
 Level: 3
-XP: 108
-Gold: 6
+XP: 128
+Gold: 34
 Checkmarks: vvv --- ---  --- --- ---
 Cards:
   Earthen Steed (lvl 2)
 Items:
   Minor Stamina Potion
+  Drakescale Helm
 Perks:
   [x] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card

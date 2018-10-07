@@ -2,8 +2,8 @@ Valrath Sunkeeper
 Name: Солнышко
 Generation: 0
 Level: 6
-XP: 354
-Gold: 9
+XP: 376
+Gold: 13
 Checkmarks: vvv vvv vvv  vvv vvv v--
 Cards:
   Practical Plans (lvl 2)

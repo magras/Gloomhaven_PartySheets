@@ -32,7 +32,7 @@ Scenarios:
   [ ] #22 Temple of the Elements (K-8)
   [x] #23 Deep Ruins (C-15)
   [ ] #24 Echo Chamber (C-6)
-  [ ] #25 Icecrag Ascent (A-5)
+  [x] #25 Icecrag Ascent (A-5)
   [x] #26 Ancient Cistern (D-15)
   [ ] #28 Outer Ritual Chamber (E-4)
   [ ] #43 Drake Nest (D-4)
@@ -42,6 +42,8 @@ Scenarios:
   [ ] #70 Chained Isle (J-17)
   [x] #81 Temple of the Eclipse (D-2)
   [x] #93 Sunken Vessel (N-17)
+  [ ] #33 Savvas Armory (A-7)
+  [ ] #34 Scorched Summit (A-4)
 Item Designs:
   #79 Inferno Blade
   #85 Wand of Infernos
@@ -128,3 +130,4 @@ Looted Threasures:
   #10 Gain 10 expirience [Ragerock]
   #71 Random Side Scenario ()
   #01 Random Item Design (#94)
+  #58 Gain “Drakescale Helm” (Item 108) [Summoner]

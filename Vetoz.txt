@@ -2,8 +2,8 @@ Quatryl Tinkerer
 Name: Vetoz
 Generation: 0
 Level: 5
-XP: 269
-Gold: 80
+XP: 296
+Gold: 112
 Checkmarks: vvv vvv vvv  vvv vvv vvv
 Cards:
   Stamina Booster (lvl 2)
@@ -28,7 +28,7 @@ Perks:
   [ ] Add two (rolling FIRE) cards
   [ ] Add three (rolling MUDDLE) cards
   [x][x] Add one (+1 WOUND) card
-  [x][ ] Add one (+1 IMMOBILIZE) card
+  [x][x] Add one (+1 IMMOBILIZE) card
   [x][x] Add one (+1 HEAL 2) card
   [ ] Add one (+0 ADD TARGET) card
   [x] Ignore negative scenario effects
