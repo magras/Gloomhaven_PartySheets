@@ -80,7 +80,8 @@ Enchancements:
         Attack 2 +1
 Donations:
   Dug - 30 g
-  Солнышко - 10 g
+  Солнышко - 20 g
+  Vetoz - 10 g
 City events:
   #04 removed
   #12 removed
@@ -99,6 +100,7 @@ City events:
   #16 removed
   #70 added
   #11 removed
+  #23 removed
 Road events:
   #10 removed
   #65 added
