@@ -74,6 +74,10 @@ Enchancements:
         Attack 4 +1
       bottom half
         Move 4 +1
+  Wild Animation (lvl 1)
+    top half
+      Summon Thorn Shooter
+        Attack 2 +1
 Donations:
   Dug - 30 g
   Солнышко - 10 g
