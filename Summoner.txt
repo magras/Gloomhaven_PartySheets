@@ -7,13 +7,14 @@ Gold: 34
 Checkmarks: vvv --- ---  --- --- ---
 Cards:
   Earthen Steed (lvl 2)
+  Grasping the Void (lvl 2)
 Items:
   Minor Stamina Potion
   Drakescale Helm
 Perks:
   [x] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card
-  [ ][ ][ ] Replace one (-1) card with one (+1) card
+  [x][ ][ ] Replace one (-1) card with one (+1) card
   [ ][ ] Add one (+2) card
   [ ] Add two (rolling WOUND) cards
   [ ] Add two (rolling POISON) cards
