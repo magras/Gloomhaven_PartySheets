@@ -3,7 +3,7 @@ Name: Солнышко
 Generation: 0
 Level: 6
 XP: 354
-Gold: 15
+Gold: 9
 Checkmarks: vvv vvv vvv  vvv vvv v--
 Cards:
   Practical Plans (lvl 2)
@@ -23,6 +23,7 @@ Items:
   Cloack of Pockets
   Minor Mana Potion
   Stun Powder
+  Minor Cure Potion
 Perks:
   [x][x] Remove two (-1) cards
   [ ] Remove four (+0) cards
