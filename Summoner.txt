@@ -3,7 +3,7 @@ Name:
 Generation: 1
 Level: 3
 XP: 146
-Gold: 46
+Gold: 56
 Checkmarks: vvv v-- ---  --- --- ---
 Cards:
   Earthen Steed (lvl 2)
