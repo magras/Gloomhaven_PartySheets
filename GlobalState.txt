@@ -104,6 +104,7 @@ City events:
   #70 added
   #11 removed
   #23 removed
+  #29 removed
 Road events:
   #10 removed
   #65 added
