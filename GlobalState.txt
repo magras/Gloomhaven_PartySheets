@@ -6,7 +6,7 @@ Achievments:
 Prosperity:
   1 x
   2 xxxx
-  3 x--- -
+  3 xx-- -
   4 ---- --
   5 ---- ---
   6 ---- ----
