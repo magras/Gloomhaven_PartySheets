@@ -3,7 +3,7 @@ Name:
 Generation: 1
 Level: 4
 XP: 150
-Gold: 52
+Gold: 26
 Checkmarks: vvv vvv ---  --- --- ---
 Cards:
   Open Wound (lvl 2)
@@ -16,6 +16,7 @@ Items:
   Winged Shoes
   Ring of Skulls
   Horned Helm
+  Inferno Blade
 Perks:
   [x][x] Remove two (-1) cards
   [ ] Remove four (+0) cards
