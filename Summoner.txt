@@ -2,9 +2,9 @@ Aesther Summoner
 Name:
 Generation: 1
 Level: 3
-XP: 128
-Gold: 34
-Checkmarks: vvv --- ---  --- --- ---
+XP: 146
+Gold: 46
+Checkmarks: vvv v-- ---  --- --- ---
 Cards:
   Earthen Steed (lvl 2)
   Oozing Manifistation (lvl 3)

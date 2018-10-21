@@ -35,6 +35,8 @@ Scenarios:
   [x] #25 Icecrag Ascent (A-5)
   [x] #26 Ancient Cistern (D-15)
   [ ] #28 Outer Ritual Chamber (E-4)
+  [x] #33 Savvas Armory (A-7)
+  [ ] #34 Scorched Summit (A-4)
   [ ] #43 Drake Nest (D-4)
   [ ] #64 Underwater Lagoon (K-16)
   [ ] #68 Toxic Moor (M-8)
@@ -42,8 +44,6 @@ Scenarios:
   [ ] #70 Chained Isle (J-17)
   [x] #81 Temple of the Eclipse (D-2)
   [x] #93 Sunken Vessel (N-17)
-  [ ] #33 Savvas Armory (A-7)
-  [ ] #34 Scorched Summit (A-4)
 Item Designs:
   #79 Inferno Blade
   #85 Wand of Infernos

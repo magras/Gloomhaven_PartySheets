@@ -7,6 +7,8 @@ Achievements:
   Through the Ruins
   Following Clues
   The Drake’s Command
+  The Voice’s Treasure
+  The Drake’s Treasure
 Reputation and Prices:
   +20
   +19 -5
