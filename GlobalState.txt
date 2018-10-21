@@ -6,7 +6,7 @@ Achievments:
 Prosperity:
   1 x
   2 xxxx
-  3 xx-- -
+  3 xxx- -
   4 ---- --
   5 ---- ---
   6 ---- ----
@@ -84,7 +84,7 @@ Enchancements:
 Donations:
   Dug - 30 g
   Солнышко - 20 g
-  Vetoz - 10 g
+  Vetoz - 20 g
 City events:
   #04 removed
   #12 removed
