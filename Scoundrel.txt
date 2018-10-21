@@ -1,13 +1,14 @@
 Human Scoundrel
 Name:
 Generation: 1
-Level: 3
+Level: 4
 XP: 150
 Gold: 52
 Checkmarks: vvv vvv ---  --- --- ---
 Cards:
   Open Wound (lvl 2)
   Duelist's Advance (lvl 3)
+  Furry of Blades (lvl 4)
 Items:
   Cloak of Invisibility
   Minor Stamina Potion
@@ -20,7 +21,7 @@ Perks:
   [ ] Remove four (+0) cards
   [x] Replace one (-2) card with one (+0) card
   [x] Replace one (-1) card with one (+1) card
-  [ ][ ] Replace one (+0) card with one (+2) card
+  [x][x] Replace one (+0) card with one (+2) card
   [ ][ ] Add two (rolling +1) cards
   [ ] Add two (rolling PIERCE 3) cards
   [ ][ ] Add two (rolling POISON) cards
