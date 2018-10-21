@@ -3,10 +3,11 @@ Achievments:
   The Merchant Flees
   The Power of Encancement
   Ancient Technology
+  The Drake Aided
 Prosperity:
   1 x
   2 xxxx
-  3 xxx- -
+  3 xxxx -
   4 ---- --
   5 ---- ---
   6 ---- ----
@@ -84,7 +85,7 @@ Enchancements:
 Donations:
   Dug - 30 g
   Солнышко - 40 g
-  Vetoz - 20 g
+  Vetoz - 30 g
 City events:
   #04 removed
   #12 removed
@@ -117,6 +118,7 @@ Road events:
   #65 removed
   #30 removed
   #08 removed
+  #07 removed
 Looted Threasures:
   #07 Random Side Scenario (#68)
   #67 Gain 10 gold [Dug]
