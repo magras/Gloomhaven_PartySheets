@@ -3,7 +3,7 @@ Name: Vetoz
 Generation: 0
 Level: 6
 XP: 334
-Gold: 125
+Gold: 115
 Checkmarks: vvv vvv vvv  vvv vvv vvv
 Cards:
   Stamina Booster (lvl 2)

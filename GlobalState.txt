@@ -8,7 +8,7 @@ Achievments:
 Prosperity:
   1 x
   2 xxxx
-  3 xxxx -
+  3 xxxx x
   4 ---- --
   5 ---- ---
   6 ---- ----
@@ -89,8 +89,10 @@ Enchancements:
           Attack 2 +1
 Donations:
   Dug - 30 g
-  Солнышко - 40 g
-  Vetoz - 30 g
+  Солнышко - 50 g
+  Vetoz - 40 g
+  Scoundrel - 20 g
+  Summoner - 10 g
 City events:
   #04 removed
   #12 removed
