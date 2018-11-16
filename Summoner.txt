@@ -12,6 +12,7 @@ Cards:
 Items:
   Minor Stamina Potion
   Drakescale Helm
+  Curious Gear
 Perks:
   [x] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card
