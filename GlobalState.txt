@@ -2,7 +2,7 @@ Achievments:
   City Rule: Militaristic
   The Merchant Flees
   The Power of Encancement
-  Ancient Technology
+  Ancient Technology II
   The Drake Aided
   Artifact: Recovered
 Prosperity:
@@ -58,6 +58,7 @@ Item Designs:
   #113 Skullbane Axe
   #116 Fueled Falchion
   #123 Ring of Skulls
+  #125 Curious Gear
 Enchancements:
   Tinkerer
     Restorative Mist (lvl 1)
@@ -111,6 +112,7 @@ City events:
   #23 removed
   #29 removed
   #09 removed
+  #03 removed
 Road events:
   #10 removed
   #65 added
