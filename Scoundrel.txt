@@ -2,9 +2,9 @@ Human Scoundrel
 Name:
 Generation: 1
 Level: 4
-XP: 168
-Gold: 39
-Checkmarks: vvv vvv v--  --- --- ---
+XP: 186
+Gold: 45
+Checkmarks: vvv vvv vv-  --- --- ---
 Cards:
   Open Wound (lvl 2)
   Duelist's Advance (lvl 3)
