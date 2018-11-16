@@ -11,6 +11,7 @@ Cards:
   Righteous Strength (lvl 4)
   Engulfing Radiance (lvl 4)
   Supportive Chant (lvl 6)
+  Scales of Justice (lvl 5)
 Items:
   Winged Shoes
   Minor Stamina Potion
