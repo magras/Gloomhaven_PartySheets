@@ -53,14 +53,18 @@ Scenarios:
   [x] #81 Temple of the Eclipse (D-2)
   [x] #93 Sunken Vessel (N-17)
 Item Designs:
+  #33 Volatile Bomb
   #79 Inferno Blade
   #85 Wand of Infernos
   #89 Minor Cure Potion
   #94 Scroll of Healing
+  #100 Robes of Summoning
   #107 Horned Helm
+  #108 Drakescale Helm
   #113 Skullbane Axe
   #116 Fueled Falchion
   #123 Ring of Skulls
+  #124 Doomed Compass
   #125 Curious Gear
 Enchancements:
   Tinkerer
@@ -92,10 +96,10 @@ Enchancements:
           Attack 2 +1
 Donations:
   Dug - 30 g
-  Солнышко - 50 g
-  Vetoz - 40 g
-  Scoundrel - 20 g
-  Summoner - 10 g
+  Солнышко - 60 g
+  Vetoz - 50 g
+  Scoundrel - 30 g
+  Summoner - 20 g
 City events:
   #04 removed
   #12 removed

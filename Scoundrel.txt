@@ -1,14 +1,15 @@
 Human Scoundrel
 Name:
 Generation: 1
-Level: 4
+Level: 5
 XP: 210
-Gold: 59
+Gold: 72
 Checkmarks: vvv vvv vv-  --- --- ---
 Cards:
   Open Wound (lvl 2)
   Duelist's Advance (lvl 3)
   Furry of Blades (lvl 4)
+  
 Items:
   Cloak of Invisibility
   Minor Stamina Potion
@@ -17,10 +18,9 @@ Items:
   Ring of Skulls
   Horned Helm
   Inferno Blade
-  Robes of Summoning
 Perks:
   [x][x] Remove two (-1) cards
-  [ ] Remove four (+0) cards
+  [x] Remove four (+0) cards
   [x] Replace one (-2) card with one (+0) card
   [x] Replace one (-1) card with one (+1) card
   [x][x] Replace one (+0) card with one (+2) card
