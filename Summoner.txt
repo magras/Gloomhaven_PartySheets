@@ -18,7 +18,7 @@ Perks:
   [x] Replace one (-2) card with one (+0) card
   [x][x][ ] Replace one (-1) card with one (+1) card
   [ ][ ] Add one (+2) card
-  [ ] Add two (rolling WOUND) cards
+  [x] Add two (rolling WOUND) cards
   [ ] Add two (rolling POISON) cards
   [ ][ ][ ] Add two (rolling HEAL 1 self) cards
   [ ] Add one (rolling FIRE) and one (rolling AIR) card
