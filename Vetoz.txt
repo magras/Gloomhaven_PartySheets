@@ -1,7 +1,7 @@
 Quatryl Tinkerer
 Name: Vetoz
 Generation: 0
-Level: 6
+Level: 7
 XP: 354
 Gold: 127
 Checkmarks: vvv vvv vvv  vvv vvv vvv
@@ -11,6 +11,7 @@ Cards:
   Micro Bots (lvl 4)
   Noxious Vials (lvl 5)
   Auto Turret (lvl 6)
+  Curative Aerosal (lvl 7)
 Items:
   Eagle-Eye Googles
   War Hammer
@@ -22,7 +23,7 @@ Items:
   Stun Powder
   Boots of Striding
 Perks:
-  [ ][ ] Remove two (-1) cards
+  [x][ ] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card
   [x] Add two (+1) cards
   [x] Add one (+3) card
