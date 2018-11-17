@@ -2,8 +2,8 @@ Human Scoundrel
 Name:
 Generation: 1
 Level: 5
-XP: 210
-Gold: 72
+XP: 218
+Gold: 92
 Checkmarks: vvv vvv vv-  --- --- ---
 Cards:
   Open Wound (lvl 2)
