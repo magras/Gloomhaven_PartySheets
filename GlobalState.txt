@@ -4,7 +4,7 @@ Achievments:
   The Power of Encancement
   Ancient Technology II
   The Drake Aided
-  Artifact: Recovered
+  Artifact: Cleansed
 Prosperity:
   1 x
   2 xxxx
@@ -37,11 +37,14 @@ Scenarios:
   [x] #25 Icecrag Ascent (A-5)
   [x] #26 Ancient Cistern (D-15)
   [ ] #28 Outer Ritual Chamber (E-4)
-  [ ] #31 Plane of Night (A-16)
+  [x] #31 Plane of Night (A-16)
   [x] #33 Savvas Armory (A-7)
   [ ] #34 Scorched Summit (A-4)
   [ ] #35 Gloomhaven Battlements A (A-14)
   [ ] #36 Gloomhaven Battlements B (B-14)
+  [ ] #37 Doom Trench (G-18)
+  [ ] #38 Slave Pens (G-2)
+  [ ] #39 Treacherous Divide (B-11)
   [ ] #43 Drake Nest (D-4)
   [ ] #64 Underwater Lagoon (K-16)
   [ ] #68 Toxic Moor (M-8)
@@ -145,3 +148,4 @@ Looted Threasures:
   #01 Random Item Design (#94)
   #58 Gain “Drakescale Helm” (Item 108) [Summoner]
   #21 Suffer 5 damage [Vetoz]
+  #69 Gain “Robes of Summoning” (Item 100) [Scoundrel]

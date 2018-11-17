@@ -2,8 +2,8 @@ Human Scoundrel
 Name:
 Generation: 1
 Level: 4
-XP: 186
-Gold: 35
+XP: 210
+Gold: 59
 Checkmarks: vvv vvv vv-  --- --- ---
 Cards:
   Open Wound (lvl 2)
@@ -17,6 +17,7 @@ Items:
   Ring of Skulls
   Horned Helm
   Inferno Blade
+  Robes of Summoning
 Perks:
   [x][x] Remove two (-1) cards
   [ ] Remove four (+0) cards

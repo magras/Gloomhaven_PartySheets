@@ -2,9 +2,9 @@ Valrath Sunkeeper
 Name: Солнышко
 Generation: 0
 Level: 6
-XP: 423
-Gold: 12
-Checkmarks: vvv vvv vvv  vvv vvv vv-
+XP: 442
+Gold: 24
+Checkmarks: vvv vvv vvv  vvv vvv vvv
 Cards:
   Practical Plans (lvl 2)
   Mobilizing Axiom (lvl 3)
@@ -31,7 +31,7 @@ Perks:
   [x] Replace one (-2) card with one (+0) card
   [x] Replace one (+0) card with one (+2) card
   [x][x] Add two (rolling +1) cards
-  [ ][ ] Add two (rolling HEAL 1) cards
+  [x][ ] Add two (rolling HEAL 1) cards
   [x] Add one (rolling STUN) card
   [x][x] Add two (rolling LIGHT) cards
   [ ] Add two (rolling SHIELD 1 self) cards
