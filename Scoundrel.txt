@@ -1,15 +1,15 @@
 Human Scoundrel
-Name:
+Name: The Ugly
 Generation: 1
 Level: 5
-XP: 218
+XP: 228
 Gold: 92
-Checkmarks: vvv vvv vv-  --- --- ---
+Checkmarks: vvv vvv vvv  --- --- ---
 Cards:
   Open Wound (lvl 2)
   Duelist's Advance (lvl 3)
   Furry of Blades (lvl 4)
-  
+  Visage of the Inevitable (lvl 5)
 Items:
   Cloak of Invisibility
   Minor Stamina Potion
@@ -18,6 +18,7 @@ Items:
   Ring of Skulls
   Horned Helm
   Inferno Blade
+  Silent Stiletto
 Perks:
   [x][x] Remove two (-1) cards
   [x] Remove four (+0) cards
