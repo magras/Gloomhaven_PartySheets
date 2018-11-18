@@ -3,7 +3,7 @@ Name: Ragerock
 Generation: 0
 Level: 6
 XP: 308
-Gold: 63
+Gold: 51
 Checkmarks: vvv vvv vvv  vvv --- ---
 Cards:
   Sentient Growth (lvl 2)
@@ -15,6 +15,9 @@ Items:
   Boots of Striding
   Minor Power Potion
   Eagle-Eye Googles
+  Hide Armor
+  Minor Healing Potion
+  Stone Charm
 Perks:
   [x] Remove four (+0) cards
   [x][x][x] Replace one (-1) card with one (+1) card
@@ -27,4 +30,4 @@ Perks:
   [x] Ignore negative item effects
   [x] Ignore negative scenario effects
 
-Personal Quest: #518
+Personal Quest: #518 retired

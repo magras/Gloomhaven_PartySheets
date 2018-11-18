@@ -66,6 +66,7 @@ Item Designs:
   #123 Ring of Skulls
   #124 Doomed Compass
   #125 Curious Gear
+  #138 Stone Charm
 Enchancements:
   Tinkerer
     Restorative Mist (lvl 1)
@@ -122,6 +123,7 @@ City events:
   #29 removed
   #09 removed
   #03 removed
+  #46 added
 Road events:
   #10 removed
   #65 added
@@ -134,6 +136,7 @@ Road events:
   #30 removed
   #08 removed
   #07 removed
+  #46 added
 Looted Threasures:
   #07 Random Side Scenario (#68)
   #67 Gain 10 gold [Dug]
