@@ -6,15 +6,14 @@ Achievments:
   The Drake Aided
   Artifact: Cleansed
 Prosperity:
-  1 x
-  2 xxxx
-  3 xxxx x
-  4 x--- --
-  5 ---- ---
-  6 ---- ----
-  7 ---- ---- -
-  8 ---- ---- ---
-  9 ---- ---- ---- --
+  2 xxxxx
+  3 xxxxx x
+  4 ----- --
+  5 ----- ---
+  6 ----- ----
+  7 ----- -----
+  8 ----- ----- --
+  9 ----- ----- -----
 Scenarios:
   [x] #1 Black Barrow (G-10)
   [x] #2 Barrow Lair (G-11)
