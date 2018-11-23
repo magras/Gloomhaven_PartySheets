@@ -8,7 +8,7 @@ Achievments:
 Prosperity:
   2 xxxxx
   3 xxxxx x
-  4 xx--- --
+  4 xxx-- --
   5 ----- ---
   6 ----- ----
   7 ----- -----
@@ -99,8 +99,8 @@ Enchancements:
 Donations:
   xxxxx xxxxx   100
   xxxxx         150
-  xxxx-         200
-  -----         250
+  xxxxx         200
+  xx---         250
   -----         300
   -----         350
   -----         400
@@ -111,9 +111,9 @@ Donations:
   ----- -----   900
   ----- -----  1000
   Dug - 30 g
-  Солнышко - 60 g
-  Vetoz - 50 g
-  Ugly - 30 g
+  Солнышко - 70 g
+  Vetoz - 60 g
+  Ugly - 40 g
   Summoner - 20 g
 City events:
   #04 removed
