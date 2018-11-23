@@ -38,7 +38,7 @@ Scenarios:
   [ ] #28 Outer Ritual Chamber (E-4)
   [x] #31 Plane of Night (A-16)
   [x] #33 Savvas Armory (A-7)
-  [ ] #34 Scorched Summit (A-4)
+  [-] #34 Scorched Summit (A-4)
   [ ] #35 Gloomhaven Battlements A (A-14)
   [ ] #36 Gloomhaven Battlements B (B-14)
   [ ] #37 Doom Trench (G-18)
