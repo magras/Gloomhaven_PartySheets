@@ -65,6 +65,7 @@ Item Designs:
   #123 Ring of Skulls
   #124 Doomed Compass
   #125 Curious Gear
+  #130 Helix Ring
   #137 Silent Stiletto
   #138 Stone Charm
 Enchancements:
@@ -164,6 +165,7 @@ Looted Threasures:
   #46 Suffer 3 damage, gain POISON
   #38 “Ring of Skulls” design (Item 123)
   #54 Gain “Doomed Compass” (Item 124) [Солнышко]
+  #68 Gain “Helix Ring” (Item 130) [Ugly]
   #10 Gain 10 expirience [Ragerock]
   #71 Random Side Scenario ()
   #01 Random Item Design (#94)
