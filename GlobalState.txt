@@ -8,7 +8,7 @@ Achievments:
 Prosperity:
   2 xxxxx
   3 xxxxx x
-  4 ----- --
+  4 xx--- --
   5 ----- ---
   6 ----- ----
   7 ----- -----
@@ -48,7 +48,7 @@ Scenarios:
   [ ] #64 Underwater Lagoon (K-16)
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
-  [ ] #70 Chained Isle (J-17)
+  [x] #70 Chained Isle (J-17)
   [x] #81 Temple of the Eclipse (D-2)
   [x] #93 Sunken Vessel (N-17)
 Item Designs:
@@ -172,3 +172,4 @@ Looted Threasures:
   #58 Gain “Drakescale Helm” (Item 108) [Summoner]
   #21 Suffer 5 damage [Vetoz]
   #69 Gain “Robes of Summoning” (Item 100) [Ugly]
+  #06 Gain “Hooked Chain” (Item 039) [Ugly]
