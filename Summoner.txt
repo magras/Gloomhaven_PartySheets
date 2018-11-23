@@ -4,7 +4,7 @@ Generation: 1
 Level: 4
 XP: 210
 Gold: 121
-Checkmarks: vvv vvv v--  --- --- ---
+Checkmarks: vvv vvv ---  --- --- ---
 Cards:
   Earthen Steed (lvl 2)
   Oozing Manifistation (lvl 3)
