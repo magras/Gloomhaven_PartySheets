@@ -66,6 +66,7 @@ Item Designs:
   #123 Ring of Skulls
   #124 Doomed Compass
   #125 Curious Gear
+  #137 Silent Stiletto
   #138 Stone Charm
 Enchancements:
   Tinkerer
@@ -99,7 +100,7 @@ Donations:
   Dug - 30 g
   Солнышко - 60 g
   Vetoz - 50 g
-  Scoundrel - 30 g
+  Ugly - 30 g
   Summoner - 20 g
 City events:
   #04 removed
@@ -156,4 +157,4 @@ Looted Threasures:
   #01 Random Item Design (#94)
   #58 Gain “Drakescale Helm” (Item 108) [Summoner]
   #21 Suffer 5 damage [Vetoz]
-  #69 Gain “Robes of Summoning” (Item 100) [Scoundrel]
+  #69 Gain “Robes of Summoning” (Item 100) [Ugly]
