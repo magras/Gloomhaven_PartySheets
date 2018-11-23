@@ -30,5 +30,5 @@ Perks:
   [ ] Add two (rolling PIERCE 3) cards
   [ ][ ] Add two (rolling POISON) cards
   [ ] Add two (rolling MUDDLE) cards
-  [ ] Add one (rolling INVISIBLE) card
+  [x] Add one (rolling INVISIBLE) card
   [ ] Ignore negative scenario effects
