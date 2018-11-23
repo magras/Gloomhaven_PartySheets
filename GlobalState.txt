@@ -97,8 +97,8 @@ Enchancements:
           Attack 2 +1
 Donations:
    100 xxxxx xxxxx
-   150 xxxx-
-   200 -----
+   150 xxxxx
+   200 xxxx-
    250 -----
    300 -----
    350 -----
