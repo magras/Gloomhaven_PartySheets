@@ -3,7 +3,7 @@ Name:
 Generation: 1
 Level: 5
 XP: 210
-Gold: 121
+Gold: 115
 Checkmarks: vvv vvv ---  --- --- ---
 Cards:
   Earthen Steed (lvl 2)
@@ -14,6 +14,7 @@ Items:
   Minor Stamina Potion
   Drakescale Helm
   Curious Gear
+  Minor Healing Potion
 Perks:
   [x] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card
