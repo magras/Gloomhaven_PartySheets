@@ -1,5 +1,5 @@
 Quatryl Tinkerer
-Name: Vetoz
+Name: Изя Тинкерман
 Generation: 0
 Level: 7
 XP: 373
