@@ -2,7 +2,7 @@ Aesther Summoner
 Name:
 Generation: 1
 Level: 5
-XP: 210
+XP: 230
 Gold: 115
 Checkmarks: vvv vvv ---  --- --- ---
 Cards:
@@ -15,6 +15,7 @@ Items:
   Drakescale Helm
   Curious Gear
   Minor Healing Potion
+  Phasing Idol
 Perks:
   [x] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card

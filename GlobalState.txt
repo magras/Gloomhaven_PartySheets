@@ -68,6 +68,7 @@ Item Designs:
   #130 Helix Ring
   #137 Silent Stiletto
   #138 Stone Charm
+  #142 Phasing Idol
 Enchancements:
   Tinkerer
     Restorative Mist (lvl 1)
