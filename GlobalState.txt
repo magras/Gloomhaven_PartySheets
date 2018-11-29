@@ -5,6 +5,7 @@ Achievments:
   Ancient Technology II
   The Drake Aided
   Artifact: Cleansed
+  Water Breathing
 Prosperity:
   2 xxxxx
   3 xxxxx x
@@ -44,7 +45,7 @@ Scenarios:
   [ ] #37 Doom Trench (G-18)
   [ ] #38 Slave Pens (G-2)
   [ ] #39 Treacherous Divide (B-11)
-  [ ] #43 Drake Nest (D-4)
+  [x] #43 Drake Nest (D-4)
   [ ] #64 Underwater Lagoon (K-16)
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
