@@ -52,6 +52,7 @@ Scenarios:
   [x] #81 Temple of the Eclipse (D-2)
   [x] #93 Sunken Vessel (N-17)
 Item Designs:
+  #24 Amulet of Life
   #33 Volatile Bomb
   #79 Inferno Blade
   #85 Wand of Infernos
@@ -175,3 +176,4 @@ Looted Threasures:
   #21 Suffer 5 damage [Vetoz]
   #69 Gain “Robes of Summoning” (Item 100) [Ugly]
   #06 Gain “Hooked Chain” (Item 039) [Ugly]
+  #34 Gain “Amulet of Life” (Item 024) [Ugly]
