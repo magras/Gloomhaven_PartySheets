@@ -144,6 +144,7 @@ City events:
   #42 removed
   #27 removed
   #60 added
+  #12 removed
 Road events:
   #10 removed
   #65 added
