@@ -3,7 +3,7 @@ Name: The Ugly
 Generation: 1
 Level: 5
 XP: 275
-Gold: 84
+Gold: 74
 Checkmarks: vvv vvv vvv  v-- --- ---
 Cards:
   Open Wound (lvl 2)

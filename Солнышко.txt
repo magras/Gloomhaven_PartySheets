@@ -3,7 +3,7 @@ Name: Солнышко
 Generation: 0
 Level: 6
 XP: 493
-Gold: 37
+Gold: 27
 Checkmarks: vvv vvv vvv  vvv vvv vvv
 Cards:
   Practical Plans (lvl 2)
