@@ -1,7 +1,7 @@
 Valrath Sunkeeper
 Name: Солнышко
 Generation: 0
-Level: 6
+Level: 9
 XP: 515
 Gold: 35
 Checkmarks: vvv vvv vvv  vvv vvv vvv
@@ -11,7 +11,9 @@ Cards:
   Righteous Strength (lvl 4)
   Engulfing Radiance (lvl 4)
   Supportive Chant (lvl 6)
+  Bright Aeges (lvl 7)
   Scales of Justice (lvl 5)
+  Agelic Ascencion (lvl 9)
 Items:
   Winged Shoes
   Minor Stamina Potion
@@ -31,7 +33,7 @@ Perks:
   [x] Replace one (-2) card with one (+0) card
   [x] Replace one (+0) card with one (+2) card
   [x][x] Add two (rolling +1) cards
-  [x][ ] Add two (rolling HEAL 1) cards
+  [x][x] Add two (rolling HEAL 1) cards
   [x] Add one (rolling STUN) card
   [x][x] Add two (rolling LIGHT) cards
   [ ] Add two (rolling SHIELD 1 self) cards
