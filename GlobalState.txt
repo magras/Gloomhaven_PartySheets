@@ -46,6 +46,8 @@ Scenarios:
   [ ] #38 Slave Pens (G-2)
   [ ] #39 Treacherous Divide (B-11)
   [x] #43 Drake Nest (D-4)
+  [x] #55 Foggy Thicket (G-5)
+  [ ] #56 Bandit’s Wood (G-4)
   [ ] #64 Underwater Lagoon (K-16)
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
