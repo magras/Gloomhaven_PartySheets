@@ -12,8 +12,8 @@ Achievements:
 Reputation and Prices:
   +20
   +19 -5
-  +18
-> +17
+> +18
+  +17
   +16
   +15 -4
   +14
