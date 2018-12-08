@@ -3,7 +3,7 @@ Name: Изя Тинкерман
 Generation: 0
 Level: 7
 XP: 413
-Gold: 159
+Gold: 133
 Checkmarks: vvv vvv vvv  vvv vvv vvv
 Cards:
   Stamina Booster (lvl 2)
@@ -23,6 +23,7 @@ Items:
   Stun Powder
   Boots of Striding
   Volatile Bomb
+  Wand of Infernos
 Perks:
   [x][ ] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card
