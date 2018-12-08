@@ -106,7 +106,7 @@ Donations:
   xxxxx         150
   xxxxx         200
   xxxxx         250
-  -----         300
+  xxx--         300
   -----         350
   -----         400
   ----- -----   500
@@ -116,9 +116,9 @@ Donations:
   ----- -----   900
   ----- -----  1000
   Dug - 30 g
-  Солнышко - 80 g
-  Vetoz - 70 g
-  Ugly - 50 g
+  Солнышко - 90 g
+  Vetoz - 80 g
+  Ugly - 60 g
   Summoner - 20 g
 City events:
   #04 removed

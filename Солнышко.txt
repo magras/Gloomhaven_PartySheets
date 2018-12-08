@@ -3,7 +3,7 @@ Name: Солнышко
 Generation: 0
 Level: 9
 XP: 515
-Gold: 30
+Gold: 29
 Checkmarks: vvv vvv vvv  vvv vvv vvv
 Cards:
   Practical Plans (lvl 2)
@@ -19,7 +19,6 @@ Items:
   Minor Stamina Potion
   Poison Dagger
   Hide Armor
-  Volotile Bomb
   Minor Healing Potion
   Iron Helmet
   Doomed Compass
@@ -27,6 +26,7 @@ Items:
   Minor Mana Potion
   Stun Powder
   Minor Cure Potion
+  Minor Power Potion
 Perks:
   [x][x] Remove two (-1) cards
   [ ] Remove four (+0) cards
