@@ -25,7 +25,7 @@ Items:
   Volatile Bomb
   Wand of Infernos
 Perks:
-  [x][ ] Remove two (-1) cards
+  [x][x] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card
   [x] Add two (+1) cards
   [x] Add one (+3) card
