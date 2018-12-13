@@ -10,6 +10,7 @@ Cards:
   Oozing Manifistation (lvl 3)
   Divided Mind (lvl 4)
   Strength in Numbers (lvl 5)
+  Endless Spikes (lvl 6)
 Items:
   Minor Stamina Potion
   Drakescale Helm
@@ -20,7 +21,7 @@ Perks:
   [x] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card
   [x][x][x] Replace one (-1) card with one (+1) card
-  [x][ ] Add one (+2) card
+  [x][x] Add one (+2) card
   [x] Add two (rolling WOUND) cards
   [ ] Add two (rolling POISON) cards
   [ ][ ][ ] Add two (rolling HEAL 1 self) cards
