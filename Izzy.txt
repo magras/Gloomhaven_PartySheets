@@ -3,7 +3,7 @@ Name: Изя Тинкерман
 Generation: 0
 Level: 7
 XP: 435
-Gold: 188
+Gold: 178
 Checkmarks: vvv vvv vvv  vvv vvv vvv
 Cards:
   Stamina Booster (lvl 2)

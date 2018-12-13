@@ -3,7 +3,7 @@ Name: Солнышко
 Generation: 0
 Level: 9
 XP: 539
-Gold: 39
+Gold: 29
 Checkmarks: vvv vvv vvv  vvv vvv vvv
 Cards:
   Practical Plans (lvl 2)
@@ -39,3 +39,5 @@ Perks:
   [ ] Add two (rolling SHIELD 1 self) cards
   [x] Ignore negative item effects and add two (+1) cards
   [x] Ignore negative scenario effects
+
+Personal Quest: #521 retired
