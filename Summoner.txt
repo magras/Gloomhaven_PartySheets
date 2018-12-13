@@ -2,9 +2,9 @@ Aesther Summoner
 Name:
 Generation: 1
 Level: 5
-XP: 270
-Gold: 178
-Checkmarks: vvv vvv vv-  --- --- ---
+XP: 292
+Gold: 233
+Checkmarks: vvv vvv vvv  --- --- ---
 Cards:
   Earthen Steed (lvl 2)
   Oozing Manifistation (lvl 3)
@@ -20,7 +20,7 @@ Perks:
   [x] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card
   [x][x][x] Replace one (-1) card with one (+1) card
-  [ ][ ] Add one (+2) card
+  [x][ ] Add one (+2) card
   [x] Add two (rolling WOUND) cards
   [ ] Add two (rolling POISON) cards
   [ ][ ][ ] Add two (rolling HEAL 1 self) cards

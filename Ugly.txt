@@ -2,9 +2,9 @@ Human Scoundrel
 Name: The Ugly
 Generation: 1
 Level: 5
-XP: 308
-Gold: 84
-Checkmarks: vvv vvv vvv  vv- --- ---
+XP: 334
+Gold: 129
+Checkmarks: vvv vvv vvv  vvv --- ---
 Cards:
   Open Wound (lvl 2)
   Duelist's Advance (lvl 3)
@@ -33,4 +33,4 @@ Perks:
   [ ][ ] Add two (rolling POISON) cards
   [ ] Add two (rolling MUDDLE) cards
   [x] Add one (rolling INVISIBLE) card
-  [ ] Ignore negative scenario effects
+  [x] Ignore negative scenario effects

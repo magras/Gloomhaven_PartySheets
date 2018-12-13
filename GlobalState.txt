@@ -47,7 +47,7 @@ Scenarios:
   [ ] #39 Treacherous Divide (B-11)
   [x] #43 Drake Nest (D-4)
   [x] #55 Foggy Thicket (G-5)
-  [ ] #56 Bandit’s Wood (G-4)
+  [x] #56 Bandit’s Wood (G-4)
   [ ] #64 Underwater Lagoon (K-16)
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
@@ -60,6 +60,7 @@ Item Designs:
   #79 Inferno Blade
   #85 Wand of Infernos
   #89 Minor Cure Potion
+  #93 Scroll of Power
   #94 Scroll of Healing
   #100 Robes of Summoning
   #107 Horned Helm
@@ -184,3 +185,4 @@ Looted Threasures:
   #69 Gain “Robes of Summoning” (Item 100) [Ugly]
   #06 Gain “Hooked Chain” (Item 039) [Ugly]
   #34 Gain “Amulet of Life” (Item 024) [Ugly]
+  #45 Random Item Design (#93) [Ugly]
