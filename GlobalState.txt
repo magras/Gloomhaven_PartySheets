@@ -9,7 +9,7 @@ Achievments:
 Prosperity:
   2 xxxxx
   3 xxxxx x
-  4 xxxxx x-
+  4 xxxxx xx
   5 ----- ---
   6 ----- ----
   7 ----- -----
@@ -150,6 +150,7 @@ City events:
   #12 removed
   #48 added
   #38 added
+  #38 removed
 Road events:
   #10 removed
   #65 added
