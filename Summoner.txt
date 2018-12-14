@@ -1,7 +1,7 @@
 Aesther Summoner
 Name:
 Generation: 1
-Level: 5
+Level: 6
 XP: 292
 Gold: 233
 Checkmarks: vvv vvv vvv  --- --- ---
