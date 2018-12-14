@@ -1,0 +1,20 @@
+Orchid Doomstalker
+Name:
+Generation: 1
+Level: 4
+XP: 150
+Gold: 60
+Checkmarks: --- --- ---  --- --- ---
+Cards:
+Items:
+Perks:
+  [ ][ ] Remove two (-1) cards
+  [ ][ ][ ] Replace two (+0) cards with two (+1) cards
+  [ ][ ] Add two (rolling +1) cards
+  [ ] Add one (+2 MUDDLE) card
+  [ ] Add one (+1 POISON) card
+  [ ] Add one (+1 WOUND) card
+  [ ] Add one (+1 IMMOBILIZE) card
+  [ ] Add one (+0 STUN) card
+  [ ][ ] Add one (rolling ADD TARGET) card
+  [ ] Ignore negative scenario effects
