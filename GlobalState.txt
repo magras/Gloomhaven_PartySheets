@@ -187,7 +187,7 @@ Looted Threasures:
   #10 Gain 10 expirience [Ragerock]
   #71 Random Side Scenario (#70)
   #01 Random Item Design (#94)
-  #58 Gain “Drakescale Helm” (Item 108) [Summoner]
+  #58 Gain “Drakescale Helm” (Item 108) [Госпожа]
   #21 Suffer 5 damage [Vetoz]
   #69 Gain “Robes of Summoning” (Item 100) [Ugly]
   #06 Gain “Hooked Chain” (Item 039) [Ugly]

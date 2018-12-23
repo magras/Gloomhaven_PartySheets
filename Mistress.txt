@@ -1,5 +1,5 @@
 Aesther Summoner
-Name:
+Name: Госпожа
 Generation: 1
 Level: 6
 XP: 292
