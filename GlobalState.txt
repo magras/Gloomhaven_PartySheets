@@ -173,9 +173,10 @@ Looted Threasures:
   #07 Random Side Scenario (#68)
   #67 Gain 10 gold [Dug]
   #65 "Horned Helm" design (Item #107)
-  #31 Random Side Scenario (#69)
+  #51 Random Side Scenario (#69)
   #26 Gain 20 gold [Dug]
   #60 Gain 'Skullbain Axe' (Item #113) [Солнышко]
+  #63 Random Item Design (#85)
   #39 Suffer 5 damage
   #72 “Fueled Falchion” design (Item 116)
   #66 Gain "Volatile Bomb" (Item 33) [Солнышко]
@@ -184,11 +185,18 @@ Looted Threasures:
   #54 Gain “Doomed Compass” (Item 124) [Солнышко]
   #68 Gain “Helix Ring” (Item 130) [Ugly]
   #10 Gain 10 expirience [Ragerock]
-  #71 Random Side Scenario ()
+  #71 Random Side Scenario (#70)
   #01 Random Item Design (#94)
   #58 Gain “Drakescale Helm” (Item 108) [Summoner]
   #21 Suffer 5 damage [Vetoz]
   #69 Gain “Robes of Summoning” (Item 100) [Ugly]
   #06 Gain “Hooked Chain” (Item 039) [Ugly]
-  #34 Gain “Amulet of Life” (Item 024) [Ugly]
+  #34 Gain “Amulet of Life” (Item 024) [Ugly] // actualy it should be #35
   #45 Random Item Design (#93) [Ugly]
+
+
+unlocked random side scenarios: 64, 68, 69, 70
+unlocked random item designs: 79, 89, 85, 93, 94
+
+Random item design #89 and random side scenario #64 drawn as reward for double unlocking Sunkeeper class.
+Random item design #79 was drawn as a result of city event #11.
