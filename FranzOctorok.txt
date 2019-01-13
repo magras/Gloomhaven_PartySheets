@@ -3,7 +3,7 @@ Name: Franz Octorok
 Generation: 1
 Level: 4
 XP: 150
-Gold: 7
+Gold: 22
 Checkmarks: --- --- ---  --- --- ---
 Cards:
   Relentless Offensive (lvl 2)
@@ -15,7 +15,7 @@ Items:
   Pierceing Bow - 30g
 Perks:
   [ ][ ] Remove two (-1) cards
-  [x][x][ ] Replace two (+0) cards with two (+1) cards
+  [x][x][x] Replace two (+0) cards with two (+1) cards
   [ ][ ] Add two (rolling +1) cards
   [x] Add one (+2 MUDDLE) card
   [ ] Add one (+1 POISON) card
