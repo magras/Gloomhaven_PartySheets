@@ -2,9 +2,9 @@ Orchid Doomstalker
 Name: Franz Octorok
 Generation: 1
 Level: 4
-XP: 150
-Gold: 22
-Checkmarks: --- --- ---  --- --- ---
+XP: 179
+Gold: 34
+Checkmarks: vv- --- ---  --- --- ---
 Cards:
   Relentless Offensive (lvl 2)
   Press the Attack (lvl 3)

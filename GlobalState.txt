@@ -48,7 +48,7 @@ Scenarios:
   [x] #43 Drake Nest (D-4)
   [x] #55 Foggy Thicket (G-5)
   [x] #56 Bandit’s Wood (G-4)
-  [ ] #64 Underwater Lagoon (K-16)
+  [x] #64 Underwater Lagoon (K-16)
   [ ] #68 Toxic Moor (M-8)
   [ ] #69 Well of the Unfortunate (F-8)
   [x] #70 Chained Isle (J-17)
@@ -108,7 +108,7 @@ Donations:
   xxxxx         200
   xxxxx         250
   xxxxx         300
-  -----         350
+  x----         350
   -----         400
   ----- -----   500
   ----- -----   600
@@ -119,7 +119,7 @@ Donations:
   Dug - 30 g
   Солнышко - 100 g
   Vetoz - 90 g
-  Ugly - 60 g
+  Ugly - 70 g
   Summoner - 20 g
 City events:
   #04 removed
@@ -193,7 +193,7 @@ Looted Threasures:
   #06 Gain “Hooked Chain” (Item 039) [Ugly]
   #34 Gain “Amulet of Life” (Item 024) [Ugly] // actualy it should be #35
   #45 Random Item Design (#93) [Ugly]
-
+  #09 Gain “Wave Crest” (Item 111) [Ugly]
 
 unlocked random side scenarios: 64, 68, 69, 70
 unlocked random item designs: 79, 89, 85, 93, 94
