@@ -102,6 +102,9 @@ Enchancements:
       top half
         Summon Thorn Shooter
           Attack 2 +1
+    Black Fire (lvl 1)
+      top half
+        Attack 1 +DISARM
 Donations:
   xxxxx xxxxx   100
   xxxxx         150

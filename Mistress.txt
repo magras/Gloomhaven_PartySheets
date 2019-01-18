@@ -3,7 +3,7 @@ Name: Госпожа
 Generation: 1
 Level: 6
 XP: 320
-Gold: 257
+Gold: 7
 Checkmarks: vvv vvv vvv  --- --- ---
 Cards:
   Earthen Steed (lvl 2)
@@ -13,8 +13,6 @@ Cards:
   Endless Spikes (lvl 6)
 Items:
   Minor Stamina Potion
-  Drakescale Helm
-  Curious Gear
   Minor Healing Potion
   Phasing Idol
 Perks:
