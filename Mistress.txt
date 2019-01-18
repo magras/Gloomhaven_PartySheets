@@ -3,7 +3,7 @@ Name: Госпожа
 Generation: 1
 Level: 6
 XP: 320
-Gold: 7
+Gold: 9
 Checkmarks: vvv vvv vvv  --- --- ---
 Cards:
   Earthen Steed (lvl 2)
