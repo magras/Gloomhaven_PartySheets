@@ -3,7 +3,7 @@ Name: Госпожа
 Generation: 1
 Level: 6
 XP: 320
-Gold: 9
+Gold: 3
 Checkmarks: vvv vvv vvv  --- --- ---
 Cards:
   Earthen Steed (lvl 2)
@@ -15,6 +15,7 @@ Items:
   Minor Stamina Potion
   Minor Healing Potion
   Phasing Idol
+  Hide Armor
 Perks:
   [x] Remove two (-1) cards
   [x] Replace one (-2) card with one (+0) card
