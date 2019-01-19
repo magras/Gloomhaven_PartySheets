@@ -3,7 +3,7 @@ Name: Franz Octorok
 Generation: 1
 Level: 4
 XP: 199
-Gold: 40
+Gold: 14
 Checkmarks: vv- --- ---  --- --- ---
 Cards:
   Relentless Offensive (lvl 2)
@@ -14,6 +14,7 @@ Items:
   Minor Power Potion - 10g
   Pierceing Bow - 30g
   Boots of Striding
+  Eagle-Eye Goggles
 Perks:
   [ ][ ] Remove two (-1) cards
   [x][x][x] Replace two (+0) cards with two (+1) cards

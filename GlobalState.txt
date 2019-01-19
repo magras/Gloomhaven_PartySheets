@@ -106,13 +106,17 @@ Enchancements:
     Black Fire (lvl 1)
       top half
         Attack 1 +DISARM
+  Scoundrel
+    Stick to the Shadows (lvl 7)
+      bottom half
+        INVISIBLE Self +STRENGTHEN
 Donations:
   xxxxx xxxxx   100
   xxxxx         150
   xxxxx         200
   xxxxx         250
   xxxxx         300
-  xxx--         350
+  xxxx-         350
   -----         400
   ----- -----   500
   ----- -----   600
@@ -122,8 +126,8 @@ Donations:
   ----- -----  1000
   Dug - 30 g
   Солнышко - 100 g
-  Vetoz - 90 g
-  Ugly - 70 g
+  Vetoz - 110 g
+  Ugly - 80 g
   Summoner - 20 g
 City events:
   #04 removed

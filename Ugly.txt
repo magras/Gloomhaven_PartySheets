@@ -3,7 +3,7 @@ Name: The Ugly
 Generation: 1
 Level: 7
 XP: 385
-Gold: 132
+Gold: 12
 Checkmarks: vvv vvv vvv  vvv vv- ---
 Cards:
   Open Wound (lvl 2)
@@ -15,17 +15,13 @@ Cards:
 Items:
   Cloak of Invisibility
   Minor Stamina Potion
-  Helix Ring
   Winged Shoes
   Ring of Skulls
   Horned Helm
   Inferno Blade
   Silent Stiletto
   Wand of Infernos
-  Hooked Chain
-  Amulet of Life
   Major Stamina Potion
-  Wave Crest
 Perks:
   [x][x] Remove two (-1) cards
   [x] Remove four (+0) cards
