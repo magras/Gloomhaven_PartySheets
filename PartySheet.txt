@@ -10,6 +10,7 @@ Achievements:
   The Voice’s Treasure
   The Drake’s Treasure
   Through the Trench
+  Sun-Blessed
 Reputation and Prices:
   +20
   +19 -5

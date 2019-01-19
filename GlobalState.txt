@@ -155,6 +155,7 @@ City events:
   #48 added
   #38 added
   #38 removed
+  #48 removed
 Road events:
   #10 removed
   #65 added
