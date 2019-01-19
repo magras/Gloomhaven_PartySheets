@@ -2,9 +2,9 @@ Aesther Summoner
 Name: Госпожа
 Generation: 1
 Level: 6
-XP: 320
-Gold: 3
-Checkmarks: vvv vvv vvv  --- --- ---
+XP: 338
+Gold: 15
+Checkmarks: vvv vvv vvv  v-- --- ---
 Cards:
   Earthen Steed (lvl 2)
   Oozing Manifistation (lvl 3)

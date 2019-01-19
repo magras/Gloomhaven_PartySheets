@@ -42,10 +42,11 @@ Scenarios:
   [-] #34 Scorched Summit (A-4)
   [ ] #35 Gloomhaven Battlements A (A-14)
   [ ] #36 Gloomhaven Battlements B (B-14)
-  [ ] #37 Doom Trench (G-18)
+  [x] #37 Doom Trench (G-18)
   [ ] #38 Slave Pens (G-2)
   [ ] #39 Treacherous Divide (B-11)
   [x] #43 Drake Nest (D-4)
+  [ ] #47 Lair of the Unseeing Eye (H-18)
   [x] #55 Foggy Thicket (G-5)
   [x] #56 Bandit’s Wood (G-4)
   [x] #64 Underwater Lagoon (K-16)
@@ -197,6 +198,7 @@ Looted Threasures:
   #34 Gain “Amulet of Life” (Item 024) [Ugly] // actualy it should be #35
   #45 Random Item Design (#93) [Ugly]
   #09 Gain “Wave Crest” (Item 111) [Ugly]
+  #49 New Scenario: Lost Island 17 (K-17) [Ugly]
 
 unlocked random side scenarios: 64, 68, 69, 70
 unlocked random item designs: 79, 89, 85, 93, 94
