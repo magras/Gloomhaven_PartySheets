@@ -6,6 +6,7 @@ Achievments:
   The Drake Aided
   Artifact: Cleansed
   Water Breathing
+  End of Corruption
 Prosperity:
   2 xxxxx
   3 xxxxx x
@@ -46,7 +47,8 @@ Scenarios:
   [ ] #38 Slave Pens (G-2)
   [ ] #39 Treacherous Divide (B-11)
   [x] #43 Drake Nest (D-4)
-  [ ] #47 Lair of the Unseeing Eye (H-18)
+  [x] #47 Lair of the Unseeing Eye (H-18)
+  [ ] #51 The Void (A-15)
   [x] #55 Foggy Thicket (G-5)
   [x] #56 Bandit’s Wood (G-4)
   [x] #64 Underwater Lagoon (K-16)
@@ -204,6 +206,8 @@ Looted Threasures:
   #45 Random Item Design (#93) [Ugly]
   #09 Gain “Wave Crest” (Item 111) [Ugly]
   #49 New Scenario: Lost Island 17 (K-17) [Ugly]
+  #57 Gain 15 gold [Ugly]
+  #18 Gain 15 gold [Ugly]
 
 unlocked random side scenarios: 64, 68, 69, 70
 unlocked random item designs: 79, 89, 85, 93, 94

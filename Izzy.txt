@@ -2,8 +2,8 @@ Quatryl Tinkerer
 Name: Изя Тинкерман
 Generation: 0
 Level: 8
-XP: 491
-Gold: 186
+XP: 518
+Gold: 201
 Checkmarks: vvv vvv vvv  vvv vvv vvv
 Cards:
   Stamina Booster (lvl 2)
