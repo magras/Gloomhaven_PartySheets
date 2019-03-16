@@ -34,3 +34,5 @@ Perks:
   [ ] Add two (rolling MUDDLE) cards
   [x] Add one (rolling INVISIBLE) card
   [x] Ignore negative scenario effects
+
+Personal quest: 516

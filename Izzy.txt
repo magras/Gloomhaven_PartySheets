@@ -36,3 +36,5 @@ Perks:
   [x][x] Add one (+1 HEAL 2) card
   [x] Add one (+0 ADD TARGET) card
   [x] Ignore negative scenario effects
+
+Personal quest: 511

@@ -27,3 +27,5 @@ Perks:
   [ ] Add one (rolling FIRE) and one (rolling AIR) card
   [ ] Add one (rolling DARK) and one (rolling EARTH) card
   [x] Ignore negative scenario effects and add two (+1) cards
+
+Personal quest: 522

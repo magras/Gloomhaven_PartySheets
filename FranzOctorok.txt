@@ -26,3 +26,5 @@ Perks:
   [ ] Add one (+0 STUN) card
   [ ][ ] Add one (rolling ADD TARGET) card
   [ ] Ignore negative scenario effects
+
+Personal quest: 524
