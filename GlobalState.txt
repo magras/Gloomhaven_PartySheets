@@ -11,7 +11,7 @@ Prosperity:
   2 xxxxx
   3 xxxxx x
   4 xxxxx xx
-  5 ----- ---
+  5 x---- ---
   6 ----- ----
   7 ----- -----
   8 ----- ----- --
@@ -118,7 +118,7 @@ Donations:
   xxxxx         200
   xxxxx         250
   xxxxx         300
-  xxxx-         350
+  xxxxx         350
   -----         400
   ----- -----   500
   ----- -----   600
@@ -128,7 +128,7 @@ Donations:
   ----- -----  1000
   Dug - 30 g
   Солнышко - 100 g
-  Vetoz - 110 g
+  Vetoz - 120 g
   Ugly - 80 g
   Summoner - 20 g
 City events:
