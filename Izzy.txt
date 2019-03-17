@@ -40,4 +40,4 @@ Perks:
   [x] Add one (+0 ADD TARGET) card
   [x] Ignore negative scenario effects
 
-Personal quest: 511
+Personal quest: 511 retired
