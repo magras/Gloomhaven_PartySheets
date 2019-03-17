@@ -1,7 +1,7 @@
 Aesther Summoner
 Name: Госпожа
 Generation: 1
-Level: 6
+Level: 7
 XP: 356
 Gold: 33
 Checkmarks: vvv vvv vvv  vvv --- ---
@@ -11,6 +11,7 @@ Cards:
   Divided Mind (lvl 4)
   Strength in Numbers (lvl 5)
   Endless Spikes (lvl 6)
+  Negative Energy (lvl 7)
 Items:
   Minor Stamina Potion
   Minor Healing Potion
@@ -22,9 +23,9 @@ Perks:
   [x][x][x] Replace one (-1) card with one (+1) card
   [x][x] Add one (+2) card
   [x] Add two (rolling WOUND) cards
-  [ ] Add two (rolling POISON) cards
+  [x] Add two (rolling POISON) cards
   [ ][ ][ ] Add two (rolling HEAL 1 self) cards
-  [ ] Add one (rolling FIRE) and one (rolling AIR) card
+  [x] Add one (rolling FIRE) and one (rolling AIR) card
   [ ] Add one (rolling DARK) and one (rolling EARTH) card
   [x] Ignore negative scenario effects and add two (+1) cards
 
