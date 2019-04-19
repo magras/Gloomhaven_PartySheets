@@ -1,0 +1,20 @@
+Valrath Quartermaster
+Name:
+Generation: 1
+Level: 3
+XP: 95
+Gold: 60
+Checkmarks: --- --- ---  --- --- ---
+Cards:
+Items:
+Perks:
+  [x][ ] Remove two (-1) cards
+  [x] Remove four (+0) cards
+  [ ][ ] Replace one (+0) card with one (+2) card
+  [ ][ ] Add two (rolling +1) cards
+  [ ] Add three (rolling MUDDLE) cards
+  [ ] Add two (rolling PIERCE 3) cards
+  [ ] Add one (rolling STUN) card
+  [ ] Add one (rolling ADD TARGET) card
+  [ ][ ][ ] Add one (+0 refresh an item) card
+  [x] Ignore negative scenario effects and add two (+1) cards
