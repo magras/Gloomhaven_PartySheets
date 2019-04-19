@@ -3,7 +3,7 @@ Name: Franz Octorok
 Generation: 1
 Level: 5
 XP: 219
-Gold: 29
+Gold: 30
 Checkmarks: vv- --- ---  --- --- ---
 Cards:
   Relentless Offensive (lvl 2)
