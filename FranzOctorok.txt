@@ -2,9 +2,9 @@ Orchid Doomstalker
 Name: Franz Octorok
 Generation: 1
 Level: 5
-XP: 219
+XP: 239
 Gold: 30
-Checkmarks: vv- --- ---  --- --- ---
+Checkmarks: vvv v-- ---  --- --- ---
 Cards:
   Relentless Offensive (lvl 2)
   Press the Attack (lvl 3)
@@ -17,7 +17,7 @@ Items:
   Boots of Striding
   Eagle-Eye Goggles
 Perks:
-  [x][ ] Remove two (-1) cards
+  [x][x] Remove two (-1) cards
   [x][x][x] Replace two (+0) cards with two (+1) cards
   [ ][ ] Add two (rolling +1) cards
   [x] Add one (+2 MUDDLE) card
