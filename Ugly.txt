@@ -3,7 +3,7 @@ Name: The Ugly
 Generation: 1
 Level: 7
 XP: 430
-Gold: 95
+Gold: 80
 Checkmarks: vvv vvv vvv  vvv vvv v--
 Cards:
   Open Wound (lvl 2)
@@ -22,6 +22,7 @@ Items:
   Silent Stiletto
   Wand of Infernos
   Major Stamina Potion
+  Boots of Strading
 Perks:
   [x][x] Remove two (-1) cards
   [x] Remove four (+0) cards
