@@ -3,7 +3,7 @@ Name: Franz Octorok
 Generation: 1
 Level: 5
 XP: 239
-Gold: 0
+Gold: 5
 Checkmarks: vvv v-- ---  --- --- ---
 Cards:
   Relentless Offensive (lvl 2)
@@ -11,7 +11,6 @@ Cards:
   Darkened Skies (lvl 3)
   Wild Command (lvl 5)
 Items:
-  Minor Stamina Potion - 10g
   Minor Power Potion - 10g
   Pierceing Bow - 30g
   Boots of Striding
